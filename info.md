@@ -5,3 +5,5 @@
 | Example Data 3       | 3000  | Example Tx Signature 3        | Example GitHub URL 3    |
 
 
+
+| Fix the bug in the code | 100 | 0x1234567890abcdef | https://github.com/user/repo |
