@@ -7,3 +7,4 @@
 
 
 | Fix the bug in the code | 100 | 0x1234567890abcdef | https://github.com/user/repo |
+| Fix the bug in the code | 100 | 0x1234567890abcdef | https://github.com/user/repo |
