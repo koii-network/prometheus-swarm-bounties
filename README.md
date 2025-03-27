@@ -1,67 +1,155 @@
-# Prometheus Swarm Bounties
+# Project Starter Template
 
-| GitHub URL | Bounty Task | Project Name | Description | Bounty Amount | Bounty Type | Transaction Hash | Status |
-|------------|------------|--------------|-------------|---------------|-------------|------------------|-------|
-|[API-Key-Fetcher](https://github.com/koii-network/API-Key-Fetcher)|Document & Summarize|API-Key-Fetcher|Document and summarize the API-Key-Fetcher repository|5|usdc|34e0169634f24d80ae28307dfcfee149|Initialized|
-|[Arweave-Health-Check](https://github.com/koii-network/Arweave-Health-Check)|Document & Summarize|Arweave-Health-Check|Document and summarize the Arweave-Health-Check repository|34|usdc|11bbcff714d642aeb44bd1c58ab8f838|Initialized|
-|[blog](https://github.com/koii-network/blog)|Document & Summarize|blog|Document and summarize the blog repository|21|usdc|64a2ddbbaab24069bbbbc7d0c8f70e66|Initialized|
-|[bonus-task](https://github.com/koii-network/bonus-task)|Document & Summarize|bonus-task|Document and summarize the bonus-task repository|49|usdc|aef043c57d40401981bb5b4761c86ee8|Initialized|
-|[builder-247](https://github.com/koii-network/builder-247)|Document & Summarize|builder-247|Document and summarize the builder-247 repository|27|usdc|40079e22a1e74806ad49158cc9fe82f7|Initialized|
-|[builder-test](https://github.com/koii-network/builder-test)|Document & Summarize|builder-test|Document and summarize the builder-test repository|34|usdc|b4191066a37744d1bc17d2f0b3c181d6|Initialized|
-|[CampingAITask](https://github.com/koii-network/CampingAITask)|Document & Summarize|CampingAITask|Document and summarize the CampingAITask repository|36|usdc|d56689bffb33441fa8222e9571e748d6|Initialized|
-|[contactus](https://github.com/koii-network/contactus)|Document & Summarize|contactus|Document and summarize the contactus repository|34|usdc|6d7cb1767e0b4c8c978b795253411673|Initialized|
-|[crowdfunding](https://github.com/koii-network/crowdfunding)|Document & Summarize|crowdfunding|Document and summarize the crowdfunding repository|30|usdc|4ac426c88e044f0f9caf0ea9b0c819ee|Initialized|
-|[data-gathering-templates](https://github.com/koii-network/data-gathering-templates)|Document & Summarize|data-gathering-templates|Document and summarize the data-gathering-templates repository|17|usdc|781495b393764f898c9cd10882126718|Initialized|
-|[DeFiAssistantTask](https://github.com/koii-network/DeFiAssistantTask)|Document & Summarize|DeFiAssistantTask|Document and summarize the DeFiAssistantTask repository|2|usdc|7b0125f6fd594f429c0bcb5659b4c555|Initialized|
-|[deterministic-rsa-js](https://github.com/koii-network/deterministic-rsa-js)|Document & Summarize|deterministic-rsa-js|Document and summarize the deterministic-rsa-js repository|1|usdc|98f6cd31d50c4e19ab90165b49b5e59b|Initialized|
-|[docs](https://github.com/koii-network/docs)|Document & Summarize|docs|Document and summarize the docs repository|8|usdc|91620d354e6c4be8b6dedf853cf94abf|Initialized|
-|[ezsandbox](https://github.com/koii-network/ezsandbox)|Document & Summarize|ezsandbox|Document and summarize the ezsandbox repository|1|usdc|427f6dd569f249bbab697b176f943768|Initialized|
-|[finnie-test-dapp](https://github.com/koii-network/finnie-test-dapp)|Document & Summarize|finnie-test-dapp|Document and summarize the finnie-test-dapp repository|38|usdc|0bf5afda9dfa49c48e67846f2e4c8dad|Initialized|
-|[getNodeScript](https://github.com/koii-network/getNodeScript)|Document & Summarize|getNodeScript|Document and summarize the getNodeScript repository|5|usdc|05f5e46986da4b8d93bc4c13c5213d08|Initialized|
-|[gpt-crawler](https://github.com/koii-network/gpt-crawler)|Document & Summarize|gpt-crawler|Document and summarize the gpt-crawler repository|43|usdc|7934d5fab8d74f7f9bca8f5c3a04167b|Initialized|
-|[hello-world](https://github.com/koii-network/hello-world)|Document & Summarize|hello-world|Document and summarize the hello-world repository|50|usdc|d754f8982b7a4b86b2245a724ea18667|Initialized|
-|[home](https://github.com/koii-network/home)|Document & Summarize|home|Document and summarize the home repository|19|usdc|1de29fe3059d4340945fcdd272577ab9|Initialized|
-|[homepage](https://github.com/koii-network/homepage)|Document & Summarize|homepage|Document and summarize the homepage repository|8|usdc|4a2aa4f1a7a34d418d1ca41f9dab8402|Initialized|
-|[image-task](https://github.com/koii-network/image-task)|Document & Summarize|image-task|Document and summarize the image-task repository|30|usdc|530b6356ce7a4f269811982413fd322e|Initialized|
-|[IPFS-pinning-service-example](https://github.com/koii-network/IPFS-pinning-service-example)|Document & Summarize|IPFS-pinning-service-example|Document and summarize the IPFS-pinning-service-example repository|33|usdc|0964e3095d6440c6b137c55a3d2c66ca|Initialized|
-|[k2-metadata-cli](https://github.com/koii-network/k2-metadata-cli)|Document & Summarize|k2-metadata-cli|Document and summarize the k2-metadata-cli repository|36|usdc|447c3b4da79e498f9c8ce2a88b92033b|Initialized|
-|[k2-orca-etl-task](https://github.com/koii-network/k2-orca-etl-task)|Document & Summarize|k2-orca-etl-task|Document and summarize the k2-orca-etl-task repository|26|usdc|eb72290e7dd745f892e99656ea3675b4|Initialized|
-|[k2-port-sdk](https://github.com/koii-network/k2-port-sdk)|Document & Summarize|k2-port-sdk|Document and summarize the k2-port-sdk repository|8|usdc|7a8d9614cbd24ea7a90de47bbef98f18|Initialized|
-|[k2-recipients-sdk](https://github.com/koii-network/k2-recipients-sdk)|Document & Summarize|k2-recipients-sdk|Document and summarize the k2-recipients-sdk repository|18|usdc|29e667cc8b634bc0a5d40d8701d18f3b|Initialized|
-|[k2-release](https://github.com/koii-network/k2-release)|Document & Summarize|k2-release|Document and summarize the k2-release repository|2|usdc|71868a50025b4d7bb590a2f91ece465c|Initialized|
-|[k2-web3.js](https://github.com/koii-network/k2-web3.js)|Document & Summarize|k2-web3.js|Document and summarize the k2-web3.js repository|25|usdc|96574d38d9504c4f959aeb0b4bbcf994|Initialized|
-|[kohaku](https://github.com/koii-network/kohaku)|Document & Summarize|kohaku|Document and summarize the kohaku repository|6|usdc|be989ca65c1d4465a567ff08eaddb4dc|Initialized|
-|[koi-task-standard](https://github.com/koii-network/koi-task-standard)|Document & Summarize|koi-task-standard|Document and summarize the koi-task-standard repository|25|usdc|39681290e5364bb3b19b0c3d4f283314|Initialized|
-|[Koii-AI-Coach](https://github.com/koii-network/Koii-AI-Coach)|Document & Summarize|Koii-AI-Coach|Document and summarize the Koii-AI-Coach repository|1|usdc|a5e5050d017f4987b46e37b60f060a05|Initialized|
-|[Koii-Global-Bootcamp](https://github.com/koii-network/Koii-Global-Bootcamp)|Document & Summarize|Koii-Global-Bootcamp|Document and summarize the Koii-Global-Bootcamp repository|26|usdc|9b6d746bc7554bb28300276e949dfa66|Initialized|
-|[koii-improvement-proposals](https://github.com/koii-network/koii-improvement-proposals)|Document & Summarize|koii-improvement-proposals|Document and summarize the koii-improvement-proposals repository|23|usdc|bcf11c9d33844c83be1a1882e53a0dd1|Initialized|
-|[koii-mobile](https://github.com/koii-network/koii-mobile)|Document & Summarize|koii-mobile|Document and summarize the koii-mobile repository|32|usdc|08cf6ba89b434e878f08430120ba5bb2|Initialized|
-|[koii-node](https://github.com/koii-network/koii-node)|Document & Summarize|koii-node|Document and summarize the koii-node repository|30|usdc|c13707fe06b549be847313c980b709f9|Initialized|
-|[koii-X](https://github.com/koii-network/koii-X)|Document & Summarize|koii-X|Document and summarize the koii-X repository|14|usdc|f040d69170d4448bb833239dfa6a0dce|Initialized|
-|[kpl-helper](https://github.com/koii-network/kpl-helper)|Document & Summarize|kpl-helper|Document and summarize the kpl-helper repository|19|usdc|7ee99213b3784e9cb28614d4f4686ec6|Initialized|
-|[kpl-token-migration-script](https://github.com/koii-network/kpl-token-migration-script)|Document & Summarize|kpl-token-migration-script|Document and summarize the kpl-token-migration-script repository|7|usdc|f4b397a4b0cb4db5a9211374eda1dd55|Initialized|
-|[KPL-Token-Whitelist](https://github.com/koii-network/KPL-Token-Whitelist)|Document & Summarize|KPL-Token-Whitelist|Document and summarize the KPL-Token-Whitelist repository|4|usdc|6601c30887d345ccabbf99e770f36601|Initialized|
-|[ledger-live](https://github.com/koii-network/ledger-live)|Document & Summarize|ledger-live|Document and summarize the ledger-live repository|11|usdc|e954d311b15c4d9c92f7191312ef161a|Initialized|
-|[linktree-app](https://github.com/koii-network/linktree-app)|Document & Summarize|linktree-app|Document and summarize the linktree-app repository|17|usdc|f6991cee064c43109553574d4825354b|Initialized|
-|[Login-Helper](https://github.com/koii-network/Login-Helper)|Document & Summarize|Login-Helper|Document and summarize the Login-Helper repository|10|usdc|85fc5394416445ccba47677dee2e2b54|Initialized|
-|[namespace-wrapper](https://github.com/koii-network/namespace-wrapper)|Document & Summarize|namespace-wrapper|Document and summarize the namespace-wrapper repository|45|usdc|e3764f8dda7b4f00892375745371ddb7|Initialized|
-|[orca-task-template](https://github.com/koii-network/orca-task-template)|Document & Summarize|orca-task-template|Document and summarize the orca-task-template repository|10|usdc|a66c6f05b779471ea282622a25a499e9|Initialized|
-|[prometheus-beta](https://github.com/koii-network/prometheus-beta)|Document & Summarize|prometheus-beta|Document and summarize the prometheus-beta repository|11|usdc|70e7ce09a7724132895cff48cb2900b7|Initialized|
-|[prometheus-swarm-bounties](https://github.com/koii-network/prometheus-swarm-bounties)|Document & Summarize|prometheus-swarm-bounties|Document and summarize the prometheus-swarm-bounties repository|2|usdc|b53b1ae0546d487ba4732fc87229625f|Initialized|
-|[SmartWeave](https://github.com/koii-network/SmartWeave)|Document & Summarize|SmartWeave|Document and summarize the SmartWeave repository|26|usdc|2a3bcf855e08487488a630cfc697e263|Initialized|
-|[submissions-task](https://github.com/koii-network/submissions-task)|Document & Summarize|submissions-task|Document and summarize the submissions-task repository|39|usdc|fb6dcca2b3714d75ace39cf58698c5ed|Initialized|
-|[support-UI](https://github.com/koii-network/support-UI)|Document & Summarize|support-UI|Document and summarize the support-UI repository|30|usdc|64444fb61ce74ce2830eef2668903258|Initialized|
-|[task-bili-integrate](https://github.com/koii-network/task-bili-integrate)|Document & Summarize|task-bili-integrate|Document and summarize the task-bili-integrate repository|28|usdc|a2c8a58eb03f4f6090c754f50c58ec6e|Initialized|
-|[task-examples](https://github.com/koii-network/task-examples)|Document & Summarize|task-examples|Document and summarize the task-examples repository|49|usdc|119638b1abdc467585770c8f7c650cf7|Initialized|
-|[task-middle-server-template](https://github.com/koii-network/task-middle-server-template)|Document & Summarize|task-middle-server-template|Document and summarize the task-middle-server-template repository|38|usdc|3f4340b78c644927b0e3573f5cdf1ef6|Initialized|
-|[task-template](https://github.com/koii-network/task-template)|Document & Summarize|task-template|Document and summarize the task-template repository|27|usdc|cfe1b2a3782741f29104efbf315137d8|Initialized|
-|[task-template-todo](https://github.com/koii-network/task-template-todo)|Document & Summarize|task-template-todo|Document and summarize the task-template-todo repository|32|usdc|2a9c008f3c994bde9eb21732ff74add1|Initialized|
-|[task-template-twitter](https://github.com/koii-network/task-template-twitter)|Document & Summarize|task-template-twitter|Document and summarize the task-template-twitter repository|25|usdc|8bc0dfe1bcd44fd69c9e91cd1828135f|Initialized|
-|[task-thumbnail](https://github.com/koii-network/task-thumbnail)|Document & Summarize|task-thumbnail|Document and summarize the task-thumbnail repository|20|usdc|99fda07c5c4843a9bffd7ac0c02764de|Initialized|
-|[task-tracker](https://github.com/koii-network/task-tracker)|Document & Summarize|task-tracker|Document and summarize the task-tracker repository|13|usdc|8faad024bd644541a4fa5f3b6bf4c413|Initialized|
-|[task-X](https://github.com/koii-network/task-X)|Document & Summarize|task-X|Document and summarize the task-X repository|1|usdc|0d09d1e329614273a7dea066f8e1619e|Initialized|
-|[tools](https://github.com/koii-network/tools)|Document & Summarize|tools|Document and summarize the tools repository|49|usdc|c7525fd0b7634d63a0333b3756d6b137|Initialized|
-|[vps-node-setup](https://github.com/koii-network/vps-node-setup)|Document & Summarize|vps-node-setup|Document and summarize the vps-node-setup repository|10|usdc|4b17d764ff6541dc8ff14e0796bebe7a|Initialized|
-|[VPS-task](https://github.com/koii-network/VPS-task)|Document & Summarize|VPS-task|Document and summarize the VPS-task repository|26|usdc|6300ed7125534f02be80d6762b00ef80|Initialized|
-|[WIP-federated-deployer](https://github.com/koii-network/WIP-federated-deployer)|Document & Summarize|WIP-federated-deployer|Document and summarize the WIP-federated-deployer repository|34|usdc|55fafd514f834be69f5f4b0d36804684|Initialized|
-|[zombie-leaderboard](https://github.com/koii-network/zombie-leaderboard)|Document & Summarize|zombie-leaderboard|Document and summarize the zombie-leaderboard repository|10|usdc|35b961b153924e8ca43d2d4070bf07e4|Initialized|
+## 🚀 Project Overview
+
+This is a comprehensive project starter template designed to accelerate development by providing a robust, pre-configured foundation for modern web and application projects. The template offers a standardized, opinionated setup that promotes best practices, code quality, and rapid development across various project types.
+
+### 🌟 Key Features
+- Fully configurable project structure
+- Pre-set development and production environments
+- Integrated code quality tools
+- Dockerized development workflow
+- CI/CD pipeline configuration
+- Comprehensive documentation and setup scripts
+
+## 🛠 Getting Started
+
+### Prerequisites
+- Node.js (v16+ recommended)
+- Docker (optional, but recommended)
+- Git
+
+### Installation & Setup
+
+1. **Clone the Repository**
+```bash
+# Clone with HTTPS
+git clone https://github.com/yourusername/project-starter-template.git
+
+# Or clone with SSH
+git clone git@github.com:yourusername/project-starter-template.git
+
+# Navigate to project directory
+cd project-starter-template
+```
+
+2. **Install Dependencies**
+```bash
+# Install project dependencies
+npm install
+
+# Or if using Yarn
+yarn install
+```
+
+3. **Environment Configuration**
+```bash
+# Copy example environment file
+cp .env.example .env
+
+# Edit .env file with your specific configurations
+nano .env
+```
+
+4. **Run the Project**
+```bash
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Run production build
+npm start
+```
+
+## 🔧 Customization Guide
+
+### Quick Customization Steps
+1. Update `package.json`:
+   - Change `name`
+   - Modify `description`
+   - Update `author` and `repository` fields
+
+2. Configure environment variables in `.env`
+
+3. Modify configuration files:
+   - `tsconfig.json` (TypeScript)
+   - `.eslintrc`
+   - `.prettierrc`
+
+### Renaming and Rebranding
+To fully rebrand the template:
+- Replace placeholder names in all configuration files
+- Update documentation and comments
+- Adjust any project-specific scripts
+
+## 📂 Project Structure
+
+```
+project-starter-template/
+│
+├── src/                # Source code
+│   ├── components/     # Reusable components
+│   ├── config/         # Configuration files
+│   ├── services/       # Business logic
+│   └── utils/          # Utility functions
+│
+├── tests/              # Test suites
+├── docs/               # Project documentation
+├── scripts/            # Utility scripts
+│
+├── .github/            # GitHub workflow configurations
+├── docker/             # Docker configurations
+│
+├── .env.example        # Environment variable template
+├── Dockerfile          # Docker build configuration
+└── README.md           # Project documentation
+```
+
+## 🔬 Technologies Used
+
+### Core Technologies
+- **Language**: TypeScript
+- **Runtime**: Node.js
+- **Package Manager**: npm / Yarn
+
+### Development Tools
+- ESLint (Code linting)
+- Prettier (Code formatting)
+- Jest (Testing)
+- Docker (Containerization)
+- GitHub Actions (CI/CD)
+
+### Optional Integrations
+- Express.js (Backend framework)
+- React / Vue.js (Frontend frameworks)
+- Tailwind CSS (Styling)
+- Prisma (Database ORM)
+
+## 🚦 Use Cases
+
+This template is ideal for:
+- RESTful API development
+- Full-stack web applications
+- Microservices architecture
+- Rapid prototyping
+- Enterprise-grade projects
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+Please ensure your code passes all tests and follows project guidelines.
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+**Happy Coding! 💻✨**
