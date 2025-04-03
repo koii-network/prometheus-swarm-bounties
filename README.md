@@ -5,3 +5,4 @@
 |[Koii Improvement Proposals](https://github.com/koii-network/koii-improvement-proposals) |feature-maker|KIPs|Please review all existing issues on this repo and summarize them as a part of the overall readme.|1|usdc|0xe8bfeac2b38bc9ae0f4199f09d94669a7bbdd5eaf35fc7b7031dde8b89324d67| In Progress |
 |[Koii Dumper Reveal](https://github.com/alexander-morris/koii-dumper-reveal) | Document & Summarize | Koii Dumper Reveal | N/A | 3 | usdc | 0x1c6d6053fd58f93350cf4583280fa7621ab839c417cd785811653ee97118a53e | In Progress |
 | [Koii Dumper Reveal](https://github.com/alexander-morris/koii-dumper-reveal) | Document & Summarize | Koii Dumper Reveal | N/A | 0.002 | ETH | 0xa32a4bde563573915d88a9748a7bef295b84d1c19dfcdfd9753b4835999c0782 | In Progress |
+| [Koii Dumper Reveal](https://github.com/alexander-morris/koii-dumper-reveal) | Document & Summarize | Koii Dumper Reveal | N/A | 0.002 | ETH | 0x666c7d3e539d22587d0982d9e6bace380fc9e56eaf6067c1b736123ccd23a6ad | In Progress |
