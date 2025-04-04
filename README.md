@@ -7,3 +7,4 @@
 | [Koii Dumper Reveal](https://github.com/alexander-morris/koii-dumper-reveal) | Document & Summarize | Koii Dumper Reveal | N/A | 0.002 | ETH | 0xa32a4bde563573915d88a9748a7bef295b84d1c19dfcdfd9753b4835999c0782 | In Progress |
 | [Koii Dumper Reveal](https://github.com/alexander-morris/koii-dumper-reveal) | Document & Summarize | Koii Dumper Reveal | N/A | 0.002 | ETH | 0x666c7d3e539d22587d0982d9e6bace380fc9e56eaf6067c1b736123ccd23a6ad | In Progress |
 | [IFTTT Webhook Resolver](https://github.com/alexander-morris/IFTTT-Webhook-Resolver) | Document & Summarize | IFTTT Webhook Resolver | N/A | 0.002 | ETH | 0xc7b488e1d13c8564c9dec017e8e151d5e4a79adc41b111ac284a069f01ca8fa5 | In Progress |
+| [Pyethereum](https://github.com/vbuterin/pyethereum) | Document & Summarize | Pyethereum | N/A | 0.002 | ETH | 0x9c22414bd525ca35e90a6e9bd98f1a0ecd3e5c62aa3b7f90e4b9495f1d6b53c6 | In Progress |
