@@ -14,3 +14,4 @@
 | [Koii Dumper Reveal](https://github.com/alexander-morris/koii-dumper-reveal) | Document & Summarize | Koii Dumper Reveal | N/A | 0.01 | USDC | 0xf1456de87adb02ec8457e0f63af734ae9091cb72672339441a9c5eb891935dbb | In Progress |
 | [Thebananasgame](https://github.com/alexander-morris/thebananasgame) | Find Bugs | Thebananasgame | N/A | 0.02 | USDC | 0xbf6a2a3245036a0a5b0ea6a4fd29f8e80ea60372c93878d149f5f1c8c056666c | In Progress |
 | [Issue Based Merging](https://github.com/koii-network/builder-247/tree/issue-based-merging) | Document & Summarize | Issue Based Merging | N/A | 0.02 | USDC | 0x337f0e02d813e8e3512ac01d928bd5e151fdf04ffd5c2ec0a4feb82eb4359992 | In Progress |
+| [Base Test](https://github.com/devTaehong/base-test) | Document & Summarize | Base Test | N/A | 0.00001 | ETH | 0x750764f6443b50fceb3402a27422b2456fdd43ed55c1452df240333113ba133e | In Progress |
