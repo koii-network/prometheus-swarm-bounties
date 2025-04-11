@@ -15,3 +15,4 @@
 | [Thebananasgame](https://github.com/alexander-morris/thebananasgame) | Find Bugs | Thebananasgame | N/A | 0.02 | USDC | 0xbf6a2a3245036a0a5b0ea6a4fd29f8e80ea60372c93878d149f5f1c8c056666c | In Progress |
 | [Task Template](https://github.com/koii-network/task-template) | Document & Summarize | Task Template | N/A | 0.02 | USDC | 0xee749640d689815f289ddab1fa1593fec0b338df36be59e095e1a35418950bba | In Progress |
 | [vsvtrend-strategy](https://github.com/SoYan500/vsvtrend-strategy) | Find Bugs | vsvtrend-strategy | N/A | 10 | KOII | 2eFvCksdHsCvZybzAhjmbMUkKkP5F94WxAmZ83r7wTQpP5CcKL6Fsi1w97GHfrxypHgB8P3Hhr3WrRipKMdnWyUx | In Progress |
+| [Pulsetrade](https://github.com/PatrickKish1/pulsetrade) | Document & Summarize | Pulsetrade | N/A | 0.2 | USDC | 0x07d7a36e01820de3a4d5a26e58f19b66b4911565ccd5a1b79c785f068804abf9 | In Progress |
