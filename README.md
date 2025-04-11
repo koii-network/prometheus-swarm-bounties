@@ -14,3 +14,4 @@
 | [Koii Dumper Reveal](https://github.com/alexander-morris/koii-dumper-reveal) | Document & Summarize | Koii Dumper Reveal | N/A | 0.01 | USDC | 0xf1456de87adb02ec8457e0f63af734ae9091cb72672339441a9c5eb891935dbb | In Progress |
 | [Thebananasgame](https://github.com/alexander-morris/thebananasgame) | Find Bugs | Thebananasgame | N/A | 0.02 | USDC | 0xbf6a2a3245036a0a5b0ea6a4fd29f8e80ea60372c93878d149f5f1c8c056666c | In Progress |
 | [Task Template](https://github.com/koii-network/task-template) | Document & Summarize | Task Template | N/A | 0.02 | USDC | 0xee749640d689815f289ddab1fa1593fec0b338df36be59e095e1a35418950bba | In Progress |
+| [vsvtrend-strategy](https://github.com/SoYan500/vsvtrend-strategy) | Find Bugs | vsvtrend-strategy | N/A | 10 | KOII | 2eFvCksdHsCvZybzAhjmbMUkKkP5F94WxAmZ83r7wTQpP5CcKL6Fsi1w97GHfrxypHgB8P3Hhr3WrRipKMdnWyUx | In Progress |
