@@ -17,4 +17,3 @@
 | [vsvtrend-strategy](https://github.com/SoYan500/vsvtrend-strategy) | Find Bugs | vsvtrend-strategy | N/A | 10 | KOII | 2eFvCksdHsCvZybzAhjmbMUkKkP5F94WxAmZ83r7wTQpP5CcKL6Fsi1w97GHfrxypHgB8P3Hhr3WrRipKMdnWyUx | In Progress |
 | [Pulsetrade](https://github.com/PatrickKish1/pulsetrade) | Document & Summarize | Pulsetrade | N/A | 0.2 | USDC | 0x07d7a36e01820de3a4d5a26e58f19b66b4911565ccd5a1b79c785f068804abf9 | In Progress |
 | [API Key Fetcher](https://github.com/koii-network/API-Key-Fetcher) | Find Bugs | API Key Fetcher | N/A | 0.2 | USDC | 0x739f1418bf537da7d9ac29fc7a2ec70695bbce8bd5702a00943e723b4c0e7c22 | In Progress |
-| [Weth Test](https://github.com/devTaehong/weth-test) | Document & Summarize | Weth Test | N/A | 0.00001 | wKOII | 0x353aeaf65c6723a02f5a287797434610123490ec8ccd36b11b8d33de104028c8 | In Progress |
