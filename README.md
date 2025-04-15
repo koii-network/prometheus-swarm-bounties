@@ -17,3 +17,4 @@
 | [vsvtrend-strategy](https://github.com/SoYan500/vsvtrend-strategy) | Find Bugs | vsvtrend-strategy | N/A | 10 | KOII | 2eFvCksdHsCvZybzAhjmbMUkKkP5F94WxAmZ83r7wTQpP5CcKL6Fsi1w97GHfrxypHgB8P3Hhr3WrRipKMdnWyUx | In Progress |
 | [Pulsetrade](https://github.com/PatrickKish1/pulsetrade) | Document & Summarize | Pulsetrade | N/A | 0.2 | USDC | 0x07d7a36e01820de3a4d5a26e58f19b66b4911565ccd5a1b79c785f068804abf9 | In Progress |
 | [API Key Fetcher](https://github.com/koii-network/API-Key-Fetcher) | Find Bugs | API Key Fetcher | N/A | 0.2 | USDC | 0x739f1418bf537da7d9ac29fc7a2ec70695bbce8bd5702a00943e723b4c0e7c22 | In Progress |
+| [Main](https://github.com/alexander-morris/generative-dns/tree/main) | Document & Summarize | Main | N/A | 0.2 | USDC | 0xb746ccb1afec47d8fffa7e40ca46b13fd6bb92867d2cc459c367d96288d2ac06 | In Progress |
