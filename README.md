@@ -18,3 +18,4 @@
 | [Pulsetrade](https://github.com/PatrickKish1/pulsetrade) | Document & Summarize | Pulsetrade | N/A | 0.2 | USDC | 0x07d7a36e01820de3a4d5a26e58f19b66b4911565ccd5a1b79c785f068804abf9 | In Progress |
 | [API Key Fetcher](https://github.com/koii-network/API-Key-Fetcher) | Find Bugs | API Key Fetcher | N/A | 0.2 | USDC | 0x739f1418bf537da7d9ac29fc7a2ec70695bbce8bd5702a00943e723b4c0e7c22 | In Progress |
 | [Main](https://github.com/alexander-morris/generative-dns/tree/main) | Document & Summarize | Main | N/A | 0.2 | USDC | 0xb746ccb1afec47d8fffa7e40ca46b13fd6bb92867d2cc459c367d96288d2ac06 | In Progress |
+| [Koii Global Bootcamp](https://github.com/koii-network/Koii-Global-Bootcamp) | Find Bugs | Koii Global Bootcamp | N/A | 11.23 | USDC | 0x365cd079efd8975c05e032febe1c1ee6eda43b567a5096ff96fb5b0aed83025e | In Progress |
