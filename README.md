@@ -19,3 +19,4 @@
 | [API Key Fetcher](https://github.com/koii-network/API-Key-Fetcher) | Find Bugs | API Key Fetcher | N/A | 0.2 | USDC | 0x739f1418bf537da7d9ac29fc7a2ec70695bbce8bd5702a00943e723b4c0e7c22 | In Progress |
 | [Main](https://github.com/alexander-morris/generative-dns/tree/main) | Document & Summarize | Main | N/A | 0.2 | USDC | 0xb746ccb1afec47d8fffa7e40ca46b13fd6bb92867d2cc459c367d96288d2ac06 | In Progress |
 | [Koii Global Bootcamp](https://github.com/koii-network/Koii-Global-Bootcamp) | Find Bugs | Koii Global Bootcamp | N/A | 11.23 | USDC | 0x365cd079efd8975c05e032febe1c1ee6eda43b567a5096ff96fb5b0aed83025e | In Progress |
+| [Vsvtrend Strategy](https://github.com/SoYan500/vsvtrend-strategy) | Document & Summarize | Vsvtrend Strategy | N/A | 25 | USDC | 0x8a40bcf486159e09dedaec76929745a425b64ce05cd08fcf9e5a2e6aa8111320 | In Progress |
