@@ -1,130 +1,59 @@
-# Prometheus Project Template
+# Prometheus Swarm Bounties Tracker 🚀
 
 ## Project Overview
 
-This repository serves as a comprehensive, flexible project template designed to accelerate development by providing a robust, pre-configured starting point for various software projects. It integrates best practices, essential tools, and a scalable architecture to help developers jumpstart their applications with minimal initial setup.
+The Prometheus Swarm Bounties repository is a centralized tracking system for bounty tasks across various open-source projects. It provides a comprehensive view of ongoing bounties, their status, and key project details, facilitating transparency and collaboration in the open-source ecosystem.
 
-### Key Features
-- 🚀 Rapid project initialization
-- 🔧 Preconfigured development environment
-- 📦 Standardized project structure
-- 🛡️ Built-in code quality and security tools
-- 🌐 Flexible and extensible architecture
+## Features / Capabilities
+
+- 📋 Centralized Bounty Tracking
+- 🔍 Project Repository Linking
+- 💰 Bounty Amount Visibility
+- 🔗 Transaction Hash Recording
+- 📊 Status Monitoring
+
+## Current Bounties
+
+| GitHub URL | Bounty Task | Project Name | Description | Bounty Amount | Bounty Type | Transaction Hash | Status |
+|------------|------------|--------------|-------------|---------------|-------------|------------------|--------|
+| [Koii DumperCoin](https://github.com/alexander-morris/koii-dumper-reveal) | Feature Maker | Koii DumperCoin | Build out the MVP of the wallet analysis tools | 25 | USDC | 0x8f7c7f8d6d17aa4d9671123e28d601c64bdcd91bbc18e5bfd1a4c4fc027ca2f6 | Initialized |
+| [Koii Improvement Proposals](https://github.com/koii-network/koii-improvement-proposals) | Feature Maker | KIPs | Review all existing issues on this repo and summarize them as part of the overall readme | 1 | USDC | 0xe8bfeac2b38bc9ae0f4199f09d94669a7bbdd5eaf35fc7b7031dde8b89324d67 | Initialized |
 
 ## Getting Started
 
-### Prerequisites
-- Git
-- Node.js (v16+ recommended)
-- npm or Yarn
-- Docker (optional, for containerization)
+### Bounty Tracking
 
-### Installation Steps
+1. Review the current list of bounties in the table above
+2. Check the status and details of each bounty
+3. Visit the linked GitHub repositories for more information
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-org/prometheus-template.git
-cd prometheus-template
-```
+### Contributing
 
-2. Install dependencies:
-```bash
-npm install
-# or
-yarn install
-```
+- If you want to propose a new bounty, please open an issue in this repository
+- For existing bounties, follow the guidelines in the respective project repositories
 
-3. Copy environment template:
-```bash
-cp .env.example .env
-```
+## Technologies and Tools
 
-4. Configure environment variables in `.env`
+- 📊 Markdown for documentation
+- 🔗 GitHub repository tracking
+- 💸 Multi-blockchain bounty support (USDC, etc.)
 
-5. Run the development server:
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Example Bounty Template
 
-## Customization Guide
+For reference, here's a template for future bounty entries:
 
-### Renaming the Project
-1. Update `package.json`:
-   - Change `name`
-   - Modify `description`
-   - Update `repository` URL
-
-2. Rename configuration files:
-   - `.env.example`
-   - Docker configurations
-   - CI/CD pipeline scripts
-
-### Extending the Template
-- Modify `src/` directory structure
-- Add/remove dependencies in `package.json`
-- Customize linting and formatting rules
-
-## Project Structure
-
-```
-prometheus-template/
-│
-├── src/                # Main source code
-│   ├── controllers/    # Request handlers
-│   ├── models/         # Data models
-│   ├── routes/         # API route definitions
-│   └── services/       # Business logic
-│
-├── tests/              # Unit and integration tests
-├── docs/               # Project documentation
-├── scripts/            # Utility and deployment scripts
-│
-├── .env.example        # Environment configuration template
-├── Dockerfile          # Container configuration
-├── docker-compose.yml  # Multi-container orchestration
-└── README.md           # Project documentation
-```
-
-## Technologies Used
-
-### Core Technologies
-- 🔧 TypeScript
-- 🚀 Node.js
-- 🌐 Express.js
-- 💾 MongoDB/PostgreSQL
-
-### Development Tools
-- 🧪 Jest (Testing)
-- 🕵️ ESLint
-- 💅 Prettier
-- 🐳 Docker
-- 🔍 Swagger (API Documentation)
-
-## Use Cases
-
-This template is ideal for:
-- RESTful API development
-- Microservices architecture
-- Backend services with authentication
-- Rapid prototyping
-- Scalable web applications
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit changes with descriptive messages
-4. Push to your branch
-5. Create a pull request
-
-Please read `CONTRIBUTING.md` for detailed guidelines.
+| GitHub URL | Swarm Type | Project Name | Description | Total Bounty Amount | Token Type | Tx Signature |
+|------------|------------|--------------|-------------|---------------------|------------|--------------|
+| https://github.com/example/repo | Feature Maker | Project Name | Project Description | Amount | Token Type | Transaction Hash |
 
 ## License
 
-This project is licensed under the MIT License. See `LICENSE` file for details.
+This project is open-source. Please refer to the LICENSE file for more details.
+
+## Disclaimer
+
+Bounty details are subject to change. Always verify the latest information directly with the project coordinators.
 
 ---
 
-### 🌟 Happy Coding! 🌟
+🌟 **Support Open Source, One Bounty at a Time!** 🌟
