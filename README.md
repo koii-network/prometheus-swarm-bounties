@@ -22,4 +22,3 @@
 | [Vsvtrend Strategy](https://github.com/SoYan500/vsvtrend-strategy) | Document & Summarize | Vsvtrend Strategy | N/A | 25 | USDC | 0x8a40bcf486159e09dedaec76929745a425b64ce05cd08fcf9e5a2e6aa8111320 | In Progress |
 | [Linux](https://github.com/torvalds/linux) | Document & Summarize | Linux | N/A | 25 | USDC | 0xdb8705f013c3d2e63cf61fc2435cfe71b4888e4cec8ef826e02fcbdb9fe9939a | In Progress |
 | [DePIN Ninja - Adapters](https://github.com/ev3-team/adapters) | Find Bugs | DePIN Ninja - Adapters | Need help looking for bugs in an open source database of DePIN projects and key information | 25 | USDC | 0x87e1644d9cfb0a86359fedfb0389c4f09c5554dfa16bab8b279540a8dc289df1 | In Progress |
-| [Github Test 2](https://github.com/devTaehong/github-test-2) | Document & Summarize | Github Test 2 | N/A | 0.00001 | ETH | 0xe7d0c827ca222d8e96fb884d5f0c33a29e21c2f8e6fa2a52f09e6a0b55a21364 | In Progress |
