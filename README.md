@@ -22,3 +22,4 @@
 | [Vsvtrend Strategy](https://github.com/SoYan500/vsvtrend-strategy) | Document & Summarize | Vsvtrend Strategy | N/A | 25 | USDC | 0x8a40bcf486159e09dedaec76929745a425b64ce05cd08fcf9e5a2e6aa8111320 | In Progress |
 | [Linux](https://github.com/torvalds/linux) | Document & Summarize | Linux | N/A | 25 | USDC | 0xdb8705f013c3d2e63cf61fc2435cfe71b4888e4cec8ef826e02fcbdb9fe9939a | In Progress |
 | [DePIN Ninja - Adapters](https://github.com/ev3-team/adapters) | Find Bugs | DePIN Ninja - Adapters | Need help looking for bugs in an open source database of DePIN projects and key information | 25 | USDC | 0x87e1644d9cfb0a86359fedfb0389c4f09c5554dfa16bab8b279540a8dc289df1 | In Progress |
+| [Raydium Clmm](https://github.com/raydium-io/raydium-clmm) | Document & Summarize | Raydium Clmm | N/A | 25 | USDC | 0x3a1a7810dbab6a74cda143b20fa39e940c28da7c0d20df29d987f4fd97d08433 | In Progress |
