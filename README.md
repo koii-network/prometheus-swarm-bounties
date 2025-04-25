@@ -24,3 +24,4 @@
 | [DePIN Ninja - Adapters](https://github.com/ev3-team/adapters) | Find Bugs | DePIN Ninja - Adapters | Need help looking for bugs in an open source database of DePIN projects and key information | 25 | USDC | 0x87e1644d9cfb0a86359fedfb0389c4f09c5554dfa16bab8b279540a8dc289df1 | In Progress |
 | [Raydium Clmm](https://github.com/raydium-io/raydium-clmm) | Document & Summarize | Raydium Clmm | N/A | 25 | USDC | 0x3a1a7810dbab6a74cda143b20fa39e940c28da7c0d20df29d987f4fd97d08433 | In Progress |
 | [Bug Finder](https://github.com/Prometheus-Swarm/bug-finder) | Document & Summarize | Bug Finder | N/A | 5 | USDC | 0x090e3438c749fafa45eb2b39e9e288bc27457e4863384a4c21e992e363657d75 | In Progress |
+| [Koii Pentagon Task 1 Template](https://github.com/blockchainsuperheroes/Koii-pentagon-task-1-template) | Document & Summarize | Koii Pentagon Task 1 Template | N/A | 25 | USDC | 0xd2cd2554e9efe92694a70b6dbbc84916103b96488057857c382857daf7c2f14e | In Progress |
