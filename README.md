@@ -27,3 +27,4 @@
 | [Koii Pentagon Task 1 Template](https://github.com/blockchainsuperheroes/Koii-pentagon-task-1-template) | Document & Summarize | Koii Pentagon Task 1 Template | N/A | 25 | USDC | 0xd2cd2554e9efe92694a70b6dbbc84916103b96488057857c382857daf7c2f14e | In Progress |
 | [Koii Dumper Reveal](https://github.com/alexander-morris/koii-dumper-reveal) | Document & Summarize | Koii Dumper Reveal | N/A | 25 | USDC | 0xdfd02a234c4bb746c0116d22e5acd15084a9185073aa9b778bfce49d3effb5d6 | In Progress |
 | [Prometheus Orca Test](https://github.com/koii-network/prometheus-orca-test) | Document & Summarize | Prometheus Orca Test | N/A | 25 | USDC | 0x974432754d086d0742b8b464e84550ba5cc41203d135e54c49f92da6433c8229 | In Progress |
+| [Koii Dumper Reveal](https://github.com/alexander-morris/koii-dumper-reveal) | Document & Summarize | Koii Dumper Reveal | N/A | 12 | USDC | 0x5cac24d800644b11c4e833cecf0b87a18102e46993efe07db622dc5163cd4e6f | In Progress |
