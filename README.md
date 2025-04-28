@@ -28,3 +28,4 @@
 | [Koii Dumper Reveal](https://github.com/alexander-morris/koii-dumper-reveal) | Document & Summarize | Koii Dumper Reveal | N/A | 25 | USDC | 0xdfd02a234c4bb746c0116d22e5acd15084a9185073aa9b778bfce49d3effb5d6 | In Progress |
 | [Prometheus Orca Test](https://github.com/koii-network/prometheus-orca-test) | Document & Summarize | Prometheus Orca Test | N/A | 25 | USDC | 0x974432754d086d0742b8b464e84550ba5cc41203d135e54c49f92da6433c8229 | In Progress |
 | [Koii Dumper Reveal](https://github.com/alexander-morris/koii-dumper-reveal) | Document & Summarize | Koii Dumper Reveal | N/A | 12 | USDC | 0x5cac24d800644b11c4e833cecf0b87a18102e46993efe07db622dc5163cd4e6f | In Progress |
+| [WIP KIP 31](https://github.com/koii-network/WIP-KIP-31) | Document & Summarize | WIP KIP 31 | N/A | 5 | USDC | 0x27dbd2706a989b1f9ef741f9aef8fcb8c7a59961da8f9dd479bbc3f7caf9bc7f | In Progress |
