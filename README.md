@@ -30,3 +30,4 @@
 | [Koii Dumper Reveal](https://github.com/alexander-morris/koii-dumper-reveal) | Document & Summarize | Koii Dumper Reveal | N/A | 12 | USDC | 0x5cac24d800644b11c4e833cecf0b87a18102e46993efe07db622dc5163cd4e6f | In Progress |
 | [WIP KIP 31](https://github.com/koii-network/WIP-KIP-31) | Document & Summarize | WIP KIP 31 | N/A | 5 | USDC | 0x27dbd2706a989b1f9ef741f9aef8fcb8c7a59961da8f9dd479bbc3f7caf9bc7f | In Progress |
 | [Lemonade Flutter](https://github.com/lemonadesocial/lemonade-flutter) | Document & Summarize | Lemonade Flutter | N/A | 25 | USDC | 0x643d1b4612781b26895d601d1333d5d6ff5bd9fb1501462a7400d60b3b0d1072 | In Progress |
+| [Arb Stylus Cache Manager Gui](https://github.com/fortytwomoney/arb-stylus-cache-manager-gui) | Document & Summarize | Arb Stylus Cache Manager Gui | N/A | 5 | USDC | 0xad01f3d5eb5baac963702e95afd63e413eb40775f8f3c59e03e660439df14571 | In Progress |
