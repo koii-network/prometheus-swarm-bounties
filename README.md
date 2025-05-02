@@ -32,3 +32,4 @@
 | [Lemonade Flutter](https://github.com/lemonadesocial/lemonade-flutter) | Document & Summarize | Lemonade Flutter | N/A | 25 | USDC | 0x643d1b4612781b26895d601d1333d5d6ff5bd9fb1501462a7400d60b3b0d1072 | In Progress |
 | [Arb Stylus Cache Manager Gui](https://github.com/fortytwomoney/arb-stylus-cache-manager-gui) | Document & Summarize | Arb Stylus Cache Manager Gui | N/A | 5 | USDC | 0xad01f3d5eb5baac963702e95afd63e413eb40775f8f3c59e03e660439df14571 | In Progress |
 | [Exportify](https://github.com/watsonbox/exportify) | Document & Summarize | Exportify | N/A | 1 | KOII | 3DRVSXo2mkTTiCix6hVnCDUPsY2MtbFP3TvAiE1YodZBr4YtcDWKQnbPFDhDq3juyfRNCV8zCPa7PYi3dwUbuERX | In Progress |
+| [React Native Node](https://github.com/staltz/react-native-node) | Document & Summarize | React Native Node | N/A | 25 | CREDITS | N/A | In Progress |
