@@ -33,3 +33,4 @@
 | [Arb Stylus Cache Manager Gui](https://github.com/fortytwomoney/arb-stylus-cache-manager-gui) | Document & Summarize | Arb Stylus Cache Manager Gui | N/A | 5 | USDC | 0xad01f3d5eb5baac963702e95afd63e413eb40775f8f3c59e03e660439df14571 | In Progress |
 | [Exportify](https://github.com/watsonbox/exportify) | Document & Summarize | Exportify | N/A | 1 | KOII | 3DRVSXo2mkTTiCix6hVnCDUPsY2MtbFP3TvAiE1YodZBr4YtcDWKQnbPFDhDq3juyfRNCV8zCPa7PYi3dwUbuERX | In Progress |
 | [React Native Node](https://github.com/staltz/react-native-node) | Document & Summarize | React Native Node | N/A | 25 | CREDITS | N/A | In Progress |
+| [SDAVAssetExportSession](https://github.com/rs/SDAVAssetExportSession) | Document & Summarize | SDAVAssetExportSession | N/A | 1 | KOII | 4pScUo31pNNhoaRmzxexdSdouqbzjmhBkzUBhVj4AsFaNe4YfqDmxmQVWex2zdZntugUYmkDxndWzD6zGxqwQZL2 | In Progress |
