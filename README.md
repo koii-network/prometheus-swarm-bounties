@@ -39,3 +39,4 @@
 | [Bible Thumping](https://github.com/alexander-morris/bible-thumping) | Document & Summarize | Bible Thumping | N/A | 20 | USDC | 0x3763807a6ba17f16d3abffde33528d5f193fb06555e3c315526c0f0557034212 | In Progress |
 | [N/A](https://github.com/alexander-morris/cursor-jailbreak/) | Document & Summarize | N/A | N/A | 25 | CREDITS | N/A | In Progress |
 | [Multi Agent Template App](https://github.com/The-Swarm-Corporation/Multi-Agent-Template-App) | Document & Summarize | Multi Agent Template App | N/A | 5 | CREDITS | N/A | In Progress |
+| [Untitled Folder](https://github.com/alexander-morris/untitled-folder) | Document & Summarize | Untitled Folder | N/A | 15 | CREDITS | N/A | In Progress |
