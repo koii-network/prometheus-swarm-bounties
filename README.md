@@ -37,3 +37,4 @@
 | [Koii Task Funder Express](https://github.com/HermanL02/Koii-Task-Funder-Express) | Document & Summarize | Koii Task Funder Express | N/A | 25 | KOII | 3oVLtxEb5LrLnMhVeXbwZZ99mzzZvn8cMouAnszmFG4PfffeQoryrC9q4f3eGYQNBsvTpMQLauF4TPV6AQpu2Ssg | In Progress |
 | [Portfolio](https://github.com/revonetworx/portfolio) | Document & Summarize | Portfolio | N/A | 25 | KOII | 3uXaRmmza16ST2TMiHaSNeeToWBUJn7qhpHBUjn5BLP9Qi1c4iPjD1RADN73bYv6fdnoJ28N3DAWRuKPCSWNg3oE | In Progress |
 | [Bible Thumping](https://github.com/alexander-morris/bible-thumping) | Document & Summarize | Bible Thumping | N/A | 20 | USDC | 0x3763807a6ba17f16d3abffde33528d5f193fb06555e3c315526c0f0557034212 | In Progress |
+| [N/A](https://github.com/alexander-morris/cursor-jailbreak/) | Document & Summarize | N/A | N/A | 25 | CREDITS | N/A | In Progress |
