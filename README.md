@@ -44,3 +44,4 @@
 | [N/A](https://github.com/) | Document & Summarize | N/A | N/A | 0.1 | USDC | 0x28c33e9eefb814a9ebe61a174c2967f478ef2dc4e5a249edd16eff6dae9a64a8 | In Progress |
 | [N/A](https://github.com/) | Document & Summarize | N/A | N/A | 0.1 | USDC | 0x5b33e838f9eabd722e6c1a7e288e42013ef609971b22f13487834f7b9ab1409c | In Progress |
 | [StreamRoller](https://github.com/SilenusTA/StreamRoller) | Document & Summarize | StreamRoller | N/A | 0.1 | USDC | 0x5b33e838f9eabd722e6c1a7e288e42013ef609971b22f13487834f7b9ab1409c | In Progress |
+| [Stream Roller](https://github.com/SilenusTA/StreamRoller) | Document & Summarize | Stream Roller | N/A | 50 | USDC | 0x5b33e838f9eabd722e6c1a7e288e42013ef609971b22f13487834f7b9ab1409c | In Progress |
