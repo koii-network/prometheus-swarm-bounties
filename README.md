@@ -40,3 +40,4 @@
 | [N/A](https://github.com/alexander-morris/cursor-jailbreak/) | Document & Summarize | N/A | N/A | 25 | CREDITS | N/A | In Progress |
 | [Multi Agent Template App](https://github.com/The-Swarm-Corporation/Multi-Agent-Template-App) | Document & Summarize | Multi Agent Template App | N/A | 5 | CREDITS | N/A | In Progress |
 | [Untitled Folder](https://github.com/alexander-morris/untitled-folder) | Document & Summarize | Untitled Folder | N/A | 15 | CREDITS | N/A | In Progress |
+| [Copy_files_recursive](https://github.com/djmuller-python-43/copy_files_recursive) | Document & Summarize | Copy_files_recursive | N/A | 100 | KOII | 2y141d8hm77DmdNj63fcEotU6xBbgir42DS3Tf7jb8P4F65mdEouMJnHhCatHjAmNh1o3JZgrTy22F58tPdTj7eb | In Progress |
