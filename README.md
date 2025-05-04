@@ -36,3 +36,4 @@
 | [SDAVAssetExportSession](https://github.com/rs/SDAVAssetExportSession) | Document & Summarize | SDAVAssetExportSession | N/A | 1 | KOII | 4pScUo31pNNhoaRmzxexdSdouqbzjmhBkzUBhVj4AsFaNe4YfqDmxmQVWex2zdZntugUYmkDxndWzD6zGxqwQZL2 | In Progress |
 | [Koii Task Funder Express](https://github.com/HermanL02/Koii-Task-Funder-Express) | Document & Summarize | Koii Task Funder Express | N/A | 25 | KOII | 3oVLtxEb5LrLnMhVeXbwZZ99mzzZvn8cMouAnszmFG4PfffeQoryrC9q4f3eGYQNBsvTpMQLauF4TPV6AQpu2Ssg | In Progress |
 | [Portfolio](https://github.com/revonetworx/portfolio) | Document & Summarize | Portfolio | N/A | 25 | KOII | 3uXaRmmza16ST2TMiHaSNeeToWBUJn7qhpHBUjn5BLP9Qi1c4iPjD1RADN73bYv6fdnoJ28N3DAWRuKPCSWNg3oE | In Progress |
+| [Bible Thumping](https://github.com/alexander-morris/bible-thumping) | Document & Summarize | Bible Thumping | N/A | 20 | USDC | 0x3763807a6ba17f16d3abffde33528d5f193fb06555e3c315526c0f0557034212 | In Progress |
