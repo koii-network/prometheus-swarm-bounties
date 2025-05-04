@@ -43,3 +43,4 @@
 | [Copy_files_recursive](https://github.com/djmuller-python-43/copy_files_recursive) | Document & Summarize | Copy_files_recursive | N/A | 100 | KOII | 2y141d8hm77DmdNj63fcEotU6xBbgir42DS3Tf7jb8P4F65mdEouMJnHhCatHjAmNh1o3JZgrTy22F58tPdTj7eb | In Progress |
 | [N/A](https://github.com/) | Document & Summarize | N/A | N/A | 0.1 | USDC | 0x28c33e9eefb814a9ebe61a174c2967f478ef2dc4e5a249edd16eff6dae9a64a8 | In Progress |
 | [N/A](https://github.com/) | Document & Summarize | N/A | N/A | 0.1 | USDC | 0x5b33e838f9eabd722e6c1a7e288e42013ef609971b22f13487834f7b9ab1409c | In Progress |
+| [StreamRoller](https://github.com/SilenusTA/StreamRoller) | Document & Summarize | StreamRoller | N/A | 0.1 | USDC | 0x5b33e838f9eabd722e6c1a7e288e42013ef609971b22f13487834f7b9ab1409c | In Progress |
