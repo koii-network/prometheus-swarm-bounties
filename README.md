@@ -50,6 +50,8 @@
 | [WeChatExporter](https://github.com/tsycnh/WeChatExporter) | Document & Summarize | WeChatExporter | N/A | 1 | KOII | 4JTyx42SWX3BfEAEFB8VawxinXaqFpMQ1nzotroyXs9tdFy3UJqy6yFbn99Esm6NYsaJYppqi2GAQiF7cpgZb48K | In Progress |
 | [Expo Video Player](https://github.com/ihmpavel/expo-video-player) | Document & Summarize | Expo Video Player | N/A | 0.000001 | ETH | 0x5b733dad7f1b5a6d9e3919ce2e496a99dc3c24bdce563b27c47b6e4d0cfc1393 | In Progress |
 | [Node Excel Export](https://github.com/functionscope/Node-Excel-Export) | Document & Summarize | Node Excel Export | N/A | 1 | CREDITS | N/A | In Progress |
+| [N/A](https://github.com/) | Document & Summarize | N/A | N/A | 0.001 | USDC | 0xadc2fc65246f6327c5ff9c2b5ae08614c19ad2176a96b3f40b582fb7d10db53f | In Progress |
+
 
 
 
