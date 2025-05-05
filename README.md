@@ -47,3 +47,4 @@
 | [Stream Roller](https://github.com/SilenusTA/StreamRoller) | Document & Summarize | Stream Roller | N/A | 50 | USDC | 0x5b33e838f9eabd722e6c1a7e288e42013ef609971b22f13487834f7b9ab1409c | In Progress |
 | [Portfolio](https://github.com/revonetworx/portfolio) | Document & Summarize | Portfolio | N/A | 50 | KOII | 3gifDcYn2LDiHGrSAaLGMadKK6vAmThrFcoW1QH4HUgGmuie3MTBueuP1exP5gTNKGRaezrcaSaLHXv6Noyu6rAJ | In Progress |
 | [Koii Tasks Bounty Tracker](https://github.com/HermanL02/Koii-Tasks-Bounty-Tracker) | Document & Summarize | Koii Tasks Bounty Tracker | N/A | 25 | KOII | 5HkHQ3GxEXumPvhHmqehwaRJgSLUYL4d3Akpc3pVeS6cRKNrrAV7ArRQcrZ29nXa3EDRhCfSiS61weVWrGjpxJad | In Progress |
+| [Copy_files_recursive](https://github.com/djmuller-python-43/copy_files_recursive) | Document & Summarize | Copy_files_recursive | N/A | 25 | KOII | 63qhJJGE2KSNULm2NN12YNtANyWYUXhonSXGSnQoxuCpk5TSk5Q339mWi5qZ3V8hhMBCoNLJ4neAA66Yj4vcMuRK | In Progress |
