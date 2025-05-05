@@ -52,6 +52,8 @@
 | [Node Excel Export](https://github.com/functionscope/Node-Excel-Export) | Document & Summarize | Node Excel Export | N/A | 1 | CREDITS | N/A | In Progress |
 | [N/A](https://github.com/) | Document & Summarize | N/A | N/A | 0.001 | USDC | 0xadc2fc65246f6327c5ff9c2b5ae08614c19ad2176a96b3f40b582fb7d10db53f | In Progress |
 | [N/A](https://github.com/) | Document & Summarize | N/A | N/A | 0.001 | USDC | 0x94b79010a683d56946e2038461dddf7d8d8d93c163aa7cadc7b4b216affba6de | In Progress |
+| [N/A](https://github.com/) | Document & Summarize | N/A | N/A | 0.001 | USDC | 0x94b79010a683d56946e2038461dddf7d8d8d93c163aa7cadc7b4b216affba6de | In Progress |
+
 
 
 
