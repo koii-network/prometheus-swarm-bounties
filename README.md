@@ -48,6 +48,8 @@
 | [Copy_files_recursive](https://github.com/djmuller-python-43/copy_files_recursive) | Document & Summarize | Copy_files_recursive | N/A | 25 | KOII | 63qhJJGE2KSNULm2NN12YNtANyWYUXhonSXGSnQoxuCpk5TSk5Q339mWi5qZ3V8hhMBCoNLJ4neAA66Yj4vcMuRK | In Progress |
 | [Expo Netflix](https://github.com/calebnance/expo-netflix) | Document & Summarize | Expo Netflix | N/A | 1 | KOII | 5hoUHVnefux5ZjaLh7agFt8m23mfDNRAmFKVz4VicDZjqu7XWT8yzhaYva6Jdz4QkUnTYdCCcQuZQucs7UkBCBfF | In Progress |
 | [WeChatExporter](https://github.com/tsycnh/WeChatExporter) | Document & Summarize | WeChatExporter | N/A | 1 | KOII | 4JTyx42SWX3BfEAEFB8VawxinXaqFpMQ1nzotroyXs9tdFy3UJqy6yFbn99Esm6NYsaJYppqi2GAQiF7cpgZb48K | In Progress |
+| [Expo Video Player](https://github.com/ihmpavel/expo-video-player) | Document & Summarize | Expo Video Player | N/A | 0.000001 | ETH | 0x5b733dad7f1b5a6d9e3919ce2e496a99dc3c24bdce563b27c47b6e4d0cfc1393 | In Progress |
+
 
 
 
