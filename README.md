@@ -53,3 +53,4 @@
 | [Roblox Cube](https://github.com/Roblox/cube) | Document & Summarize | Roblox Cube | N/A | 0.1 | DOGE | 0x5b33e838f9eabd722e6c1a7e288e42013ef609971b22f13487834f7b9ab1409c | In Progress |
 | [Hunyuan3D](https://github.com/Tencent/Hunyuan3D-2/tree/main) | Document & Summarize | Hunyuan3D | N/A | 150000 | USDC | 0x5b33e838f9eabd722e6c1a7e288e42013ef609971b22f13487834f7b9ab1409c | In Progress |
 | [Hunyuan3D](https://github.com/Tencent/Hunyuan3D-2/tree/main) | Find Bugs | Hunyuan3D | N/A | 10 | USDC | 0x5b33e838f9eabd722e6c1a7e288e42013ef609971b22f13487834f7b9ab1409c | In Progress |
+| [Find them all my pretty!](https://github.com/koii-network/builder-247) | Find Bugs | Find them all my pretty! | N/A | 1 | USDC | 0x5b33e838f9eabd722e6c1a7e288e42013ef609971b22f13487834f7b9ab1409c | In Progress |
