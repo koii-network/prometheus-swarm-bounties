@@ -56,6 +56,8 @@
 | [Chippy](https://github.com/) | Document & Summarize | Chippy | N/A | 1 | USDC | 0x94b79010a683d56946e2038461dddf7d8d8d93c163aa7cadc7b4b216affba6de | In Progress |
 | [Koii Dumper Reveal](https://github.com/alexander-morris/koii-dumper-reveal) | Document & Summarize | Koii Dumper Reveal | N/A | 25 | CREDITS | N/A | In Progress |
 | [Node_exporter](https://github.com/prometheus/node_exporter) | Document & Summarize | Node_exporter | N/A | 20 | KOII | 3HXHEBmSxt5AUxymjc7YeGGRKCsmBSxtRKDEqaDkDVt3bWxGB2MPiYfvTnDYyp4KF2V5ZpCdFVKFRbmynG9esd7w | In Progress |
+| [Copy_files_recursive](https://github.com/djmuller-python-43/copy_files_recursive) | Document & Summarize | Copy_files_recursive | N/A | 25 | KOII | 2kZcz825XAw2nxczCBYsx2PxkzHH3MoEQtNNwVT1ZdyrBLQVVp5VL7bbGobMzfEFSxufB1JFU6uaL7vNLY4Qwf8K | In Progress |
+
 
 
 
