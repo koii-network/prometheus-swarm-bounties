@@ -54,6 +54,8 @@
 | [N/A](https://github.com/) | Document & Summarize | N/A | N/A | 0.001 | USDC | 0x94b79010a683d56946e2038461dddf7d8d8d93c163aa7cadc7b4b216affba6de | In Progress |
 | [N/A](https://github.com/) | Document & Summarize | N/A | N/A | 0.001 | USDC | 0x94b79010a683d56946e2038461dddf7d8d8d93c163aa7cadc7b4b216affba6de | In Progress |
 | [Chippy](https://github.com/) | Document & Summarize | Chippy | N/A | 1 | USDC | 0x94b79010a683d56946e2038461dddf7d8d8d93c163aa7cadc7b4b216affba6de | In Progress |
+| [Koii Dumper Reveal](https://github.com/alexander-morris/koii-dumper-reveal) | Document & Summarize | Koii Dumper Reveal | N/A | 25 | CREDITS | N/A | In Progress |
+
 
 
 
