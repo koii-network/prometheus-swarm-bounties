@@ -60,6 +60,8 @@
 | [WIP KIP 32](https://github.com/koii-network/WIP-KIP-32) | Find Bugs | WIP KIP 32 | N/A | 5 | CREDITS | N/A | In Progress |
 | [Koii Global Bootcamp](https://github.com/koii-network/Koii-Global-Bootcamp) | Find Bugs | Koii Global Bootcamp | N/A | 5 | USDC | 0x1519b8be2e57c1c9e5833227fb2a5a862bb4c0c1bdc9fde873fa4252a36fd3a0 | In Progress |
 | [Koii Improvement Proposals](https://github.com/koii-network/koii-improvement-proposals) | Find Bugs | Koii Improvement Proposals | N/A | 100 | CREDITS | N/A | In Progress |
+| [N/A](https://github.com/koii-network/Koii-Global-Bootcamp/) | Document & Summarize | N/A | N/A | 25 | USDC | 0xaae82132fa1f727638ae923a9a2442ec910d4c117d2ef624487237b4ab0aa114 | In Progress |
+
 
 
 
