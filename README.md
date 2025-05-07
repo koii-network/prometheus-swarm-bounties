@@ -67,6 +67,8 @@
 | [Typhoon](https://github.com/exotic-markets-labs/typhoon) | Document & Summarize | Typhoon | N/A | 10 | CREDITS | N/A | In Progress |
 | [Swap Ui Example](https://github.com/DappioLab/swap-ui-example) | Document & Summarize | Swap Ui Example | N/A | 13 | CREDITS | N/A | In Progress |
 | [Observer](https://github.com/MonkeDAO/observer) | Document & Summarize | Observer | N/A | 40 | CREDITS | N/A | In Progress |
+| [Solana_NFT_marketplace](https://github.com/0xCryptoAngel/Solana_NFT_marketplace) | Document & Summarize | Solana_NFT_marketplace | N/A | 43 | CREDITS | N/A | In Progress |
+
 
 
 
