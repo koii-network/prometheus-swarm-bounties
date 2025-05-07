@@ -66,6 +66,8 @@
 | [Pumpfun Sinperbot](https://github.com/slycompiler/pumpfun-sinperbot) | Document & Summarize | Pumpfun Sinperbot | N/A | 16 | CREDITS | N/A | In Progress |
 | [Typhoon](https://github.com/exotic-markets-labs/typhoon) | Document & Summarize | Typhoon | N/A | 10 | CREDITS | N/A | In Progress |
 | [Swap Ui Example](https://github.com/DappioLab/swap-ui-example) | Document & Summarize | Swap Ui Example | N/A | 13 | CREDITS | N/A | In Progress |
+| [Observer](https://github.com/MonkeDAO/observer) | Document & Summarize | Observer | N/A | 40 | CREDITS | N/A | In Progress |
+
 
 
 
