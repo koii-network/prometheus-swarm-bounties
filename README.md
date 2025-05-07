@@ -63,6 +63,8 @@
 | [N/A](https://github.com/koii-network/Koii-Global-Bootcamp/) | Document & Summarize | N/A | N/A | 25 | USDC | 0xaae82132fa1f727638ae923a9a2442ec910d4c117d2ef624487237b4ab0aa114 | In Progress |
 | [ExpoFaceDetectorDemo](https://github.com/chelseafarley/ExpoFaceDetectorDemo) | Document & Summarize | ExpoFaceDetectorDemo | N/A | 64 | CREDITS | N/A | In Progress |
 | [Solana_flutter_frontend](https://github.com/Project-Solana/solana_flutter_frontend) | Document & Summarize | Solana_flutter_frontend | N/A | 50 | CREDITS | N/A | In Progress |
+| [Pumpfun Sinperbot](https://github.com/slycompiler/pumpfun-sinperbot) | Document & Summarize | Pumpfun Sinperbot | N/A | 16 | CREDITS | N/A | In Progress |
+
 
 
 
