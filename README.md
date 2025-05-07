@@ -65,6 +65,8 @@
 | [Solana_flutter_frontend](https://github.com/Project-Solana/solana_flutter_frontend) | Document & Summarize | Solana_flutter_frontend | N/A | 50 | CREDITS | N/A | In Progress |
 | [Pumpfun Sinperbot](https://github.com/slycompiler/pumpfun-sinperbot) | Document & Summarize | Pumpfun Sinperbot | N/A | 16 | CREDITS | N/A | In Progress |
 | [Typhoon](https://github.com/exotic-markets-labs/typhoon) | Document & Summarize | Typhoon | N/A | 10 | CREDITS | N/A | In Progress |
+| [Swap Ui Example](https://github.com/DappioLab/swap-ui-example) | Document & Summarize | Swap Ui Example | N/A | 13 | CREDITS | N/A | In Progress |
+
 
 
 
