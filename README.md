@@ -57,6 +57,8 @@
 | [Manticore](https://github.com/blazephoenix/manticore) | Document & Summarize | Manticore | I need to upgrade this app and improve its capabilities | 25 | CREDITS | N/A | In Progress |
 | [Copy_files_recursive](https://github.com/djmuller-python-43/copy_files_recursive) | Find Bugs | Copy_files_recursive | N/A | 25 | KOII | 5Y5eLy934yZxk1UTWWUKUApRcaT1t8sKAhRWfNVexrYp8nhBGZ3nPP2xr4USactG38BoR7fAPNW5BaB42rpxTYzX | In Progress |
 | [Task Template](https://github.com/koii-network/task-template) | Document & Summarize | Task Template | N/A | 5 | CREDITS | N/A | In Progress |
+| [WIP KIP 32](https://github.com/koii-network/WIP-KIP-32) | Find Bugs | WIP KIP 32 | N/A | 5 | CREDITS | N/A | In Progress |
+
 
 
 
