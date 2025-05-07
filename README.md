@@ -64,6 +64,8 @@
 | [ExpoFaceDetectorDemo](https://github.com/chelseafarley/ExpoFaceDetectorDemo) | Document & Summarize | ExpoFaceDetectorDemo | N/A | 64 | CREDITS | N/A | In Progress |
 | [Solana_flutter_frontend](https://github.com/Project-Solana/solana_flutter_frontend) | Document & Summarize | Solana_flutter_frontend | N/A | 50 | CREDITS | N/A | In Progress |
 | [Pumpfun Sinperbot](https://github.com/slycompiler/pumpfun-sinperbot) | Document & Summarize | Pumpfun Sinperbot | N/A | 16 | CREDITS | N/A | In Progress |
+| [Typhoon](https://github.com/exotic-markets-labs/typhoon) | Document & Summarize | Typhoon | N/A | 10 | CREDITS | N/A | In Progress |
+
 
 
 
