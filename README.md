@@ -55,6 +55,8 @@
 | [Copy_files_recursive](https://github.com/djmuller-python-43/copy_files_recursive) | Document & Summarize | Copy_files_recursive | N/A | 25 | KOII | 2kZcz825XAw2nxczCBYsx2PxkzHH3MoEQtNNwVT1ZdyrBLQVVp5VL7bbGobMzfEFSxufB1JFU6uaL7vNLY4Qwf8K | In Progress |
 | [IFTTT Webhook Resolver](https://github.com/alexander-morris/IFTTT-Webhook-Resolver) | Document & Summarize | IFTTT Webhook Resolver | N/A | 5 | CREDITS | N/A | In Progress |
 | [Manticore](https://github.com/blazephoenix/manticore) | Document & Summarize | Manticore | I need to upgrade this app and improve its capabilities | 25 | CREDITS | N/A | In Progress |
+| [Copy_files_recursive](https://github.com/djmuller-python-43/copy_files_recursive) | Find Bugs | Copy_files_recursive | N/A | 25 | KOII | 5Y5eLy934yZxk1UTWWUKUApRcaT1t8sKAhRWfNVexrYp8nhBGZ3nPP2xr4USactG38BoR7fAPNW5BaB42rpxTYzX | In Progress |
+
 
 
 
