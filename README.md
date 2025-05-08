@@ -77,6 +77,8 @@
 | [Prometheus Test](https://github.com/Prometheus-Swarm/prometheus-test) | Find Bugs | Prometheus Test | N/A | 25 | CREDITS | N/A | In Progress |
 | [Chai](https://github.com/teaxyz/chai) | Find Bugs | Chai | N/A | 100 | KOII | 5F2hBntSdb4VHtaSSSSphysykpv3RzFfnMyGd2gPc9HB9JwLECoZ3SCAy8zR1DdDg1VFhkeqMxSyY8i2iP53YuAv | In Progress |
 | [83](https://github.com/teaxyz/chai/issues/83) | Document & Summarize | 83 | N/A | 50 | KOII | 3nLudJ9BuNWt9X9SSGxhjfmdT4CnCsgt543DBmh9HTvB1GJTHEY3rWszqhBDrnmvfELcJMqdcFq4abYVn98mzEfM | In Progress |
+| [Xion](https://github.com/burnt-labs/xion) | Document & Summarize | Xion | N/A | 100 | KOII | 61xfAivqGdXghZR1pHCjSFrMRvpcF2s7THJHzdqQzqEUeXDeQ7UdPtwwwfxyvenw3RiWFKuHxhYZwWPQdsW7yzdZ | In Progress |
+
 
 
 
