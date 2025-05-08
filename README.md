@@ -74,6 +74,8 @@
 | [Prometheus Test](https://github.com/Prometheus-Swarm/prometheus-test) | Document & Summarize | Prometheus Test | N/A | 25 | CREDITS | N/A | In Progress |
 | [Feature Builder](https://github.com/Prometheus-Swarm/feature-builder) | Document & Summarize | Feature Builder | N/A | 25 | CREDITS | N/A | In Progress |
 | [Feature Builder](https://github.com/Prometheus-Swarm/feature-builder) | Find Bugs | Feature Builder | Please review the repo and look for any issues that could lead to the agent failing to read the repo properly. Analyze AST embeddings and confirm the repo structure, then analyze how it can be improved | 25 | CREDITS | N/A | In Progress |
+| [Prometheus Test](https://github.com/Prometheus-Swarm/prometheus-test) | Find Bugs | Prometheus Test | N/A | 25 | CREDITS | N/A | In Progress |
+
 
 
 
