@@ -79,6 +79,8 @@
 | [83](https://github.com/teaxyz/chai/issues/83) | Document & Summarize | 83 | N/A | 50 | KOII | 3nLudJ9BuNWt9X9SSGxhjfmdT4CnCsgt543DBmh9HTvB1GJTHEY3rWszqhBDrnmvfELcJMqdcFq4abYVn98mzEfM | In Progress |
 | [Xion](https://github.com/burnt-labs/xion) | Document & Summarize | Xion | N/A | 100 | KOII | 61xfAivqGdXghZR1pHCjSFrMRvpcF2s7THJHzdqQzqEUeXDeQ7UdPtwwwfxyvenw3RiWFKuHxhYZwWPQdsW7yzdZ | In Progress |
 | [Site](https://github.com/collaborative-economics-lab/site) | Find Bugs | Site | N/A | 5 | CREDITS | N/A | In Progress |
+| [Ru-Twin](https://github.com/g0rd/ru_twin) | Find Bugs | Ru-Twin | My digital twin!  | 10 | CREDITS | N/A | In Progress |
+
 
 
 
