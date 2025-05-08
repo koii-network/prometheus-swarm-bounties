@@ -71,6 +71,8 @@
 | [Awesome Solana Ai Hackathon](https://github.com/tkorkmazeth/awesome-solana-ai-hackathon) | Document & Summarize | Awesome Solana Ai Hackathon | N/A | 50 | CREDITS | N/A | In Progress |
 | [Adapters](https://github.com/ev3-team/adapters) | Find Bugs | Adapters | N/A | 25 | CREDITS | N/A | In Progress |
 | [N/A](https://github.com/collaborative-economics-lab/site/) | Find Bugs | N/A | N/A | 5 | CREDITS | N/A | In Progress |
+| [Prometheus Test](https://github.com/Prometheus-Swarm/prometheus-test) | Document & Summarize | Prometheus Test | N/A | 25 | CREDITS | N/A | In Progress |
+
 
 
 
