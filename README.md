@@ -69,6 +69,8 @@
 | [Observer](https://github.com/MonkeDAO/observer) | Document & Summarize | Observer | N/A | 40 | CREDITS | N/A | In Progress |
 | [Solana_NFT_marketplace](https://github.com/0xCryptoAngel/Solana_NFT_marketplace) | Document & Summarize | Solana_NFT_marketplace | N/A | 43 | CREDITS | N/A | In Progress |
 | [Awesome Solana Ai Hackathon](https://github.com/tkorkmazeth/awesome-solana-ai-hackathon) | Document & Summarize | Awesome Solana Ai Hackathon | N/A | 50 | CREDITS | N/A | In Progress |
+| [Adapters](https://github.com/ev3-team/adapters) | Find Bugs | Adapters | N/A | 25 | CREDITS | N/A | In Progress |
+
 
 
 
