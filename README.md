@@ -76,6 +76,8 @@
 | [Feature Builder](https://github.com/Prometheus-Swarm/feature-builder) | Find Bugs | Feature Builder | Please review the repo and look for any issues that could lead to the agent failing to read the repo properly. Analyze AST embeddings and confirm the repo structure, then analyze how it can be improved | 25 | CREDITS | N/A | In Progress |
 | [Prometheus Test](https://github.com/Prometheus-Swarm/prometheus-test) | Find Bugs | Prometheus Test | N/A | 25 | CREDITS | N/A | In Progress |
 | [Chai](https://github.com/teaxyz/chai) | Find Bugs | Chai | N/A | 100 | KOII | 5F2hBntSdb4VHtaSSSSphysykpv3RzFfnMyGd2gPc9HB9JwLECoZ3SCAy8zR1DdDg1VFhkeqMxSyY8i2iP53YuAv | In Progress |
+| [83](https://github.com/teaxyz/chai/issues/83) | Document & Summarize | 83 | N/A | 50 | KOII | 3nLudJ9BuNWt9X9SSGxhjfmdT4CnCsgt543DBmh9HTvB1GJTHEY3rWszqhBDrnmvfELcJMqdcFq4abYVn98mzEfM | In Progress |
+
 
 
 
