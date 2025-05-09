@@ -83,6 +83,8 @@
 | [Github.com](https://github.com/thelastbackspace/cursor-auto-resume) | Find Bugs | Github.com | N/A | 50 | CREDITS | N/A | In Progress |
 | [Github.com](https://github.com/vchoutas/expose) | Find Bugs | Github.com | N/A | 33 | CREDITS | N/A | In Progress |
 | [Github.com](https://github.com/thelastbackspace/cursor-auto-resume) | Find Bugs | Github.com | N/A | 10 | CREDITS | N/A | In Progress |
+| [Github.com](https://github.com/burnt-labs/xion) | Document & Summarize | Github.com | N/A | 50 | CREDITS | N/A | In Progress |
+
 
 
 
