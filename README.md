@@ -85,6 +85,8 @@
 | [Github.com](https://github.com/thelastbackspace/cursor-auto-resume) | Find Bugs | Github.com | N/A | 10 | CREDITS | N/A | In Progress |
 | [Github.com](https://github.com/burnt-labs/xion) | Document & Summarize | Github.com | N/A | 50 | CREDITS | N/A | In Progress |
 | [Github.com](https://github.com/lucasjones/cpuminer-multi/) | Document & Summarize | Github.com | N/A | 10 | KOII | 4NKFaGdakW8Es1Ra4ogMijsTc7c1eNsRNXD9EiRhG4uJWmzQNTC5u8zr9gPjaLw6wDcQyHDQioxbz3JYnNG23Dyf | In Progress |
+| [Nginx Prometheus Exporter](https://github.com/nginx/nginx-prometheus-exporter) | Find Bugs | Nginx Prometheus Exporter | N/A | 10 | KOII | 4no1VjZqEvRHMtuNWSTcRPMmWorMoJPLLY9RhSePVMWwggTNBxzTf6vnFHbmgMxLFVKJh4ndyQ1Pw3mYdoHSe44V | In Progress |
+
 
 
 
