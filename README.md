@@ -84,6 +84,8 @@
 | [Github.com](https://github.com/vchoutas/expose) | Find Bugs | Github.com | N/A | 33 | CREDITS | N/A | In Progress |
 | [Github.com](https://github.com/thelastbackspace/cursor-auto-resume) | Find Bugs | Github.com | N/A | 10 | CREDITS | N/A | In Progress |
 | [Github.com](https://github.com/burnt-labs/xion) | Document & Summarize | Github.com | N/A | 50 | CREDITS | N/A | In Progress |
+| [Github.com](https://github.com/lucasjones/cpuminer-multi/) | Document & Summarize | Github.com | N/A | 10 | KOII | 4NKFaGdakW8Es1Ra4ogMijsTc7c1eNsRNXD9EiRhG4uJWmzQNTC5u8zr9gPjaLw6wDcQyHDQioxbz3JYnNG23Dyf | In Progress |
+
 
 
 
