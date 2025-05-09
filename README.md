@@ -80,6 +80,8 @@
 | [Xion](https://github.com/burnt-labs/xion) | Document & Summarize | Xion | N/A | 100 | KOII | 61xfAivqGdXghZR1pHCjSFrMRvpcF2s7THJHzdqQzqEUeXDeQ7UdPtwwwfxyvenw3RiWFKuHxhYZwWPQdsW7yzdZ | In Progress |
 | [Site](https://github.com/collaborative-economics-lab/site) | Find Bugs | Site | N/A | 5 | CREDITS | N/A | In Progress |
 | [Ru-Twin](https://github.com/g0rd/ru_twin) | Find Bugs | Ru-Twin | My digital twin!  | 10 | CREDITS | N/A | In Progress |
+| [Github.com](https://github.com/thelastbackspace/cursor-auto-resume) | Find Bugs | Github.com | N/A | 50 | CREDITS | N/A | In Progress |
+
 
 
 
