@@ -82,6 +82,8 @@
 | [Ru-Twin](https://github.com/g0rd/ru_twin) | Find Bugs | Ru-Twin | My digital twin!  | 10 | CREDITS | N/A | In Progress |
 | [Github.com](https://github.com/thelastbackspace/cursor-auto-resume) | Find Bugs | Github.com | N/A | 50 | CREDITS | N/A | In Progress |
 | [Github.com](https://github.com/vchoutas/expose) | Find Bugs | Github.com | N/A | 33 | CREDITS | N/A | In Progress |
+| [Github.com](https://github.com/thelastbackspace/cursor-auto-resume) | Find Bugs | Github.com | N/A | 10 | CREDITS | N/A | In Progress |
+
 
 
 
