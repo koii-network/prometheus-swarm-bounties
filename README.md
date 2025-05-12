@@ -89,6 +89,8 @@
 | [Teh Broke Bots](https://github.com/TehBrokeBots/elizaos.github.io-TehBrokeBots) | Document & Summarize | Teh Broke Bots | need help building an ai neural network that trades pump.fun tokens | 10 | CREDITS | N/A | In Progress |
 | [Teh Broke Bots](https://github.com/TehBrokeBots/elizaos.github.io-TehBrokeBots) | Find Bugs | Teh Broke Bots | need help building an ai neural network that trades pump.fun tokens | 15 | CREDITS | N/A | In Progress |
 | [Xion](https://github.com/burnt-labs/xion) | Find Bugs | Xion | N/A | 25 | CREDITS | N/A | In Progress |
+| [JobIt](https://github.com/DevTaehong/JobIt) | Build a Feature | JobIt | Add a feature that allows users to log in and save favorites job postings  | 10 | CREDITS | N/A | In Progress |
+
 
 
 
