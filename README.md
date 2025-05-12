@@ -93,6 +93,12 @@
 | [Teh Broke Bots](https://github.com/TehBrokeBots/hummingbot) | Build a Feature | Teh Broke Bots | need help building an ai neural network trading bot for the solana network that i can deploy on telegram | 50 | CREDITS | N/A | In Progress |
 | [Teh Broke Bots](https://github.com/TehBrokeBots/soltrade) | Build a Feature | Teh Broke Bots | need help building an ai neural network trading bot for the solana blockchain that can be deployed as a telegram bot.  | 50 | CREDITS | N/A | In Progress |
 | [WIP KIP 31](https://github.com/koii-network/WIP-KIP-31) | Build a Feature | WIP KIP 31 | Please test and improve the testing modules, following from plan.md in the root of the project | 50 | CREDITS | N/A | In Progress |
+| [Bible Thumping](https://github.com/alexander-morris/bible-thumping) | Build a Feature | Bible Thumping | Please check the plan.md file and then build the project as designed
+
+be sure to test as you go and verify that each component works independantly of the others
+
+Review the working site and take screenshots to verify the UI design | 125 | CREDITS | N/A | In Progress |
+
 
 
 
