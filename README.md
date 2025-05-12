@@ -88,6 +88,8 @@
 | [Nginx Prometheus Exporter](https://github.com/nginx/nginx-prometheus-exporter) | Find Bugs | Nginx Prometheus Exporter | N/A | 10 | KOII | 4no1VjZqEvRHMtuNWSTcRPMmWorMoJPLLY9RhSePVMWwggTNBxzTf6vnFHbmgMxLFVKJh4ndyQ1Pw3mYdoHSe44V | In Progress |
 | [Teh Broke Bots](https://github.com/TehBrokeBots/elizaos.github.io-TehBrokeBots) | Document & Summarize | Teh Broke Bots | need help building an ai neural network that trades pump.fun tokens | 10 | CREDITS | N/A | In Progress |
 | [Teh Broke Bots](https://github.com/TehBrokeBots/elizaos.github.io-TehBrokeBots) | Find Bugs | Teh Broke Bots | need help building an ai neural network that trades pump.fun tokens | 15 | CREDITS | N/A | In Progress |
+| [Xion](https://github.com/burnt-labs/xion) | Find Bugs | Xion | N/A | 25 | CREDITS | N/A | In Progress |
+
 
 
 
