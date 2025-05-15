@@ -99,6 +99,8 @@
 | [Prometheus Swarm Bounties](https://github.com/koii-network/prometheus-swarm-bounties) | Document & Summarize | Prometheus Swarm Bounties | N/A | 25 | CREDITS | N/A | In Progress |
 | [Task Template](https://github.com/koii-network/task-template) | Document & Summarize | Task Template | N/A | 10 | CREDITS | N/A | In Progress |
 | [Task Template](https://github.com/koii-network/task-template) | Build a Feature | Task Template | Please create a readme file that summarizes the content of the repo!  | 1 | CREDITS | N/A | In Progress |
+| [Blog](https://github.com/koii-network/blog) | Document & Summarize | Blog | N/A | 25 | CREDITS | N/A | In Progress |
+
 
 
 
