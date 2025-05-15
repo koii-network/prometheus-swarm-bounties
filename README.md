@@ -96,6 +96,8 @@
 | [Bible Thumping](https://github.com/alexander-morris/bible-thumping) | Build a Feature | Bible Thumping | Please check the plan.md file and then build the project as designed
 | [Copy_files_recursive](https://github.com/djmuller-python-43/copy_files_recursive) | Document & Summarize | Copy_files_recursive | N/A | 25 | CREDITS | N/A | In Progress |
 | [Copy_files_recursive](https://github.com/djmuller-python-43/copy_files_recursive) | Find Bugs | Copy_files_recursive | N/A | 25 | CREDITS | N/A | In Progress |
+| [Prometheus Swarm Bounties](https://github.com/koii-network/prometheus-swarm-bounties) | Document & Summarize | Prometheus Swarm Bounties | N/A | 25 | CREDITS | N/A | In Progress |
+
 
 
 
