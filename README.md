@@ -97,6 +97,8 @@
 | [Copy_files_recursive](https://github.com/djmuller-python-43/copy_files_recursive) | Document & Summarize | Copy_files_recursive | N/A | 25 | CREDITS | N/A | In Progress |
 | [Copy_files_recursive](https://github.com/djmuller-python-43/copy_files_recursive) | Find Bugs | Copy_files_recursive | N/A | 25 | CREDITS | N/A | In Progress |
 | [Prometheus Swarm Bounties](https://github.com/koii-network/prometheus-swarm-bounties) | Document & Summarize | Prometheus Swarm Bounties | N/A | 25 | CREDITS | N/A | In Progress |
+| [Task Template](https://github.com/koii-network/task-template) | Document & Summarize | Task Template | N/A | 10 | CREDITS | N/A | In Progress |
+
 
 
 
