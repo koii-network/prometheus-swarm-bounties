@@ -100,6 +100,8 @@
 | [Task Template](https://github.com/koii-network/task-template) | Document & Summarize | Task Template | N/A | 10 | CREDITS | N/A | In Progress |
 | [Task Template](https://github.com/koii-network/task-template) | Build a Feature | Task Template | Please create a readme file that summarizes the content of the repo!  | 1 | CREDITS | N/A | In Progress |
 | [Blog](https://github.com/koii-network/blog) | Document & Summarize | Blog | N/A | 25 | CREDITS | N/A | In Progress |
+| [Oniric_oracle](https://github.com/uxkell/oniric_oracle) | Build a Feature | Oniric_oracle | Need a decentralized text storage information that can pull statistics out of text entries to identify tendencies | 50 | CREDITS | N/A | In Progress |
+
 
 
 
