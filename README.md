@@ -101,6 +101,10 @@
 | [Task Template](https://github.com/koii-network/task-template) | Build a Feature | Task Template | Please create a readme file that summarizes the content of the repo!  | 1 | CREDITS | N/A | In Progress |
 | [Blog](https://github.com/koii-network/blog) | Document & Summarize | Blog | N/A | 25 | CREDITS | N/A | In Progress |
 | [Oniric_oracle](https://github.com/uxkell/oniric_oracle) | Build a Feature | Oniric_oracle | Need a decentralized text storage information that can pull statistics out of text entries to identify tendencies | 50 | CREDITS | N/A | In Progress |
+| [JobIt](https://github.com/DevTaehong/JobIt) | Build a Feature | JobIt | Build a feature that users can log in and save favourite job postings using PostgreSQL. For the log in system, use better-auth and use email log in method. 
+
+Users also can see the saved favourite job postings in their profile page. The profile page will be needed as well. | 50 | CREDITS | N/A | In Progress |
+
 
 
 
