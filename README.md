@@ -102,6 +102,8 @@
 | [Blog](https://github.com/koii-network/blog) | Document & Summarize | Blog | N/A | 25 | CREDITS | N/A | In Progress |
 | [Oniric_oracle](https://github.com/uxkell/oniric_oracle) | Build a Feature | Oniric_oracle | Need a decentralized text storage information that can pull statistics out of text entries to identify tendencies | 50 | CREDITS | N/A | In Progress |
 | [JobIt](https://github.com/DevTaehong/JobIt) | Build a Feature | JobIt | Build a feature that users can log in and save favourite job postings using PostgreSQL. For the log in system, use better-auth and use email log in method. 
+| [JobIt](https://github.com/DevTaehong/JobIt) | Document & Summarize | JobIt | N/A | 10 | KOII | 2Z7s4jfpWhRfpRwE626MBvQfqKuPpiywynCzzn6m6UfHXThB9hD6zm3g9iKnh9ieMHg1shRRtfd2PbEdU1h1tVCZ | In Progress |
+
 
 Users also can see the saved favourite job postings in their profile page. The profile page will be needed as well. | 50 | CREDITS | N/A | In Progress |
 
