@@ -104,6 +104,8 @@
 | [JobIt](https://github.com/DevTaehong/JobIt) | Build a Feature | JobIt | Build a feature that users can log in and save favourite job postings using PostgreSQL. For the log in system, use better-auth and use email log in method. 
 | [JobIt](https://github.com/DevTaehong/JobIt) | Document & Summarize | JobIt | N/A | 10 | KOII | 2Z7s4jfpWhRfpRwE626MBvQfqKuPpiywynCzzn6m6UfHXThB9hD6zm3g9iKnh9ieMHg1shRRtfd2PbEdU1h1tVCZ | In Progress |
 | [JobIt](https://github.com/DevTaehong/JobIt) | Build a Feature | JobIt | Test | 25 | CREDITS | N/A | In Progress |
+| [JobIt](https://github.com/DevTaehong/JobIt) | Find Bugs | JobIt | N/A | 1 | CREDITS | N/A | In Progress |
+
 
 
 
