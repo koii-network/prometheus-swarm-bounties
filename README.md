@@ -107,6 +107,8 @@
 | [JobIt](https://github.com/DevTaehong/JobIt) | Find Bugs | JobIt | N/A | 1 | CREDITS | N/A | In Progress |
 | [Vsvtrend Strategy](https://github.com/SoYan500/vsvtrend-strategy) | Build a Feature | Vsvtrend Strategy | Need help for building Pine Script strategy for TradingView to maximize trade accuracy using adaptive indicators and and AI/ML-based false signal detection | 100 | KOII | 49LLH7ByygDbnckFSWv1pdN1Kk8bzU5MZABdYkWMA2QsXKU23YajywDg4WfcAnqHTSZdtzMdJntTEkobQ3R4R3ft | In Progress |
 | [Koii Node](https://github.com/TestingRabbit-pixel/koii-node) | Find Bugs | Koii Node | N/A | 10 | KOII | 3DC9jcoCtUtgnaRf71v8xgKcgQgHH6GBWJ9qyJFKqqQikGFsbtRzYYouuh6RB4D8qrUpZkGGWBBYSxKtDdQKxLAz | In Progress |
+| [Swarms Task Koii](https://github.com/alexander-morris/swarms-task-koii) | Build a Feature | Swarms Task Koii | Please document and add bug-testing scripts to each sub-folder within this repo, if the docs already exist, please upgrade them to ensure the highest accuracy. Do not overwrite existing docs | 5 | CREDITS | N/A | In Progress |
+
 
 
 
