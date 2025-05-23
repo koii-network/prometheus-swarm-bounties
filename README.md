@@ -110,6 +110,8 @@
 | [Swarms Task Koii](https://github.com/alexander-morris/swarms-task-koii) | Build a Feature | Swarms Task Koii | Please document and add bug-testing scripts to each sub-folder within this repo, if the docs already exist, please upgrade them to ensure the highest accuracy. Do not overwrite existing docs | 5 | CREDITS | N/A | In Progress |
 | [Koii Dumper Reveal](https://github.com/alexander-morris/koii-dumper-reveal) | Build a Feature | Koii Dumper Reveal | please add a token generation via a solana smart contract deployed to koii&#039;s k2 layer and then distribute it to anyone who dumps their koii | 25 | CREDITS | N/A | In Progress |
 | [cryptoninjaclan web sraper](https://github.com/Hackmole/node-osmosis) | Build a Feature | cryptoninjaclan web sraper | Build a web scraper that stores data in readable text | 25 | KOII | 5pX1Xr52u7eXzbbzo63tgSDHufaP9v9XPceySYWetdzeZjqgYQ1qroVjzesd7DBdEWYGpRd1amacowGKhiz528DK | In Progress |
+| [MailGeek](https://github.com/TestingRabbit-pixel/MailGeek) | Build a Feature | MailGeek | Write unit tests for this repo. | 10 | KOII | 2nQwXp4D7EZEpaa5LCb72Y5A7CjNX1rmXXAGXk2hJL7PY4v1Bqo55KRkq8CYujB75BwiuVKJK8zDQ7Nw7Ecyk1fT | In Progress |
+
 
 
 
