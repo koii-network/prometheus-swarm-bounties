@@ -113,6 +113,8 @@
 | [MailGeek](https://github.com/TestingRabbit-pixel/MailGeek) | Build a Feature | MailGeek | Write unit tests for this repo. | 10 | KOII | 2nQwXp4D7EZEpaa5LCb72Y5A7CjNX1rmXXAGXk2hJL7PY4v1Bqo55KRkq8CYujB75BwiuVKJK8zDQ7Nw7Ecyk1fT | In Progress |
 | [Google Drive Search Engine](https://github.com/TestingRabbit-pixel/Google-Drive-Search-Engine) | Build a Feature | Google Drive Search Engine | Write unit tests | 10 | KOII | 35xnN4btmTaAwRt7FykEMAiAvxXeU5k6EDbytroxJHKJiuTAneUf4sFbEeSLufmMmEPpA4QUhxNyrLxKipDLr2Ur | In Progress |
 | [WIP KIP 31](https://github.com/koii-network/WIP-KIP-31) | Feature Builder | WIP KIP 31 | revise the docker container structure to improve the testing flow and reduce iteration time | 25 | CREDITS | N/A | In Progress |
+| [Bible Thumping](https://github.com/alexander-morris/bible-thumping) | Feature Builder | Bible Thumping | Please build the MVP of the website, start by analyzing plan.md to plan out the key features, then double check that you haven&#039;t missed anything before you proceed to build the task.  | 50 | CREDITS | N/A | In Progress |
+
 
 
 
