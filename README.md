@@ -114,6 +114,8 @@
 | [Google Drive Search Engine](https://github.com/TestingRabbit-pixel/Google-Drive-Search-Engine) | Build a Feature | Google Drive Search Engine | Write unit tests | 10 | KOII | 35xnN4btmTaAwRt7FykEMAiAvxXeU5k6EDbytroxJHKJiuTAneUf4sFbEeSLufmMmEPpA4QUhxNyrLxKipDLr2Ur | In Progress |
 | [WIP KIP 31](https://github.com/koii-network/WIP-KIP-31) | Feature Builder | WIP KIP 31 | revise the docker container structure to improve the testing flow and reduce iteration time | 25 | CREDITS | N/A | In Progress |
 | [Bible Thumping](https://github.com/alexander-morris/bible-thumping) | Feature Builder | Bible Thumping | Please build the MVP of the website, start by analyzing plan.md to plan out the key features, then double check that you haven&#039;t missed anything before you proceed to build the task.  | 50 | CREDITS | N/A | In Progress |
+| [Koii_Node_Simulation](https://github.com/KoiiKikko/prometheus-beta) | Document & Summarize | Koii_Node_Simulation | This script, `koii_node_simulation.py`, simulates the core functionalities of a Koii network node. It models the submission and processing of various task types (e.g., signature, data upload), manages task queues (pending, processing, retry), and generates synthetic metrics to monitor the node&#039;s activity. These metrics, including task submission counts, processing outcomes, execution durations, queue lengths, and module errors, are exposed via a Prometheus HTTP endpoint, allowing for observation of the simulated node&#039;s behavior. This simulation is intended for development, testing, or demonstration purposes of Koii network concepts. | 25 | KOII | CyP8zQufNAUkvAWqcM7p8v2Y8xx3NCh2qzt8t2zcpHdskNmUehxQRHuaYMj26aSFD2nxK2y7aCS4SHDeRSuFyRk | In Progress |
+
 
 
 
