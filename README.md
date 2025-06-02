@@ -115,6 +115,19 @@
 | [WIP KIP 31](https://github.com/koii-network/WIP-KIP-31) | Feature Builder | WIP KIP 31 | revise the docker container structure to improve the testing flow and reduce iteration time | 25 | CREDITS | N/A | In Progress |
 | [Bible Thumping](https://github.com/alexander-morris/bible-thumping) | Feature Builder | Bible Thumping | Please build the MVP of the website, start by analyzing plan.md to plan out the key features, then double check that you haven&#039;t missed anything before you proceed to build the task.  | 50 | CREDITS | N/A | In Progress |
 | [Koii_Node_Simulation](https://github.com/KoiiKikko/prometheus-beta) | Document & Summarize | Koii_Node_Simulation | This script, `koii_node_simulation.py`, simulates the core functionalities of a Koii network node. It models the submission and processing of various task types (e.g., signature, data upload), manages task queues (pending, processing, retry), and generates synthetic metrics to monitor the node&#039;s activity. These metrics, including task submission counts, processing outcomes, execution durations, queue lengths, and module errors, are exposed via a Prometheus HTTP endpoint, allowing for observation of the simulated node&#039;s behavior. This simulation is intended for development, testing, or demonstration purposes of Koii network concepts. | 25 | KOII | CyP8zQufNAUkvAWqcM7p8v2Y8xx3NCh2qzt8t2zcpHdskNmUehxQRHuaYMj26aSFD2nxK2y7aCS4SHDeRSuFyRk | In Progress |
+| [FishHeads, The Original Koii Pond Pioneers](https://github.com/KoiiKikko/KOII-Pond-Pioneers) | Build a Feature | FishHeads, The Original Koii Pond Pioneers | We are embarking on a project to build a decentralized digital marketplace specifically for **The Original Koii Pond Pioneers (FishHeads)** community on the Koii Network. This marketplace will focus on enabling community members to interact with their digital assets in various ways.
+
+The core functionality will include:
+
+* **Buying:** Allowing FishHeads to purchase digital assets listed by other community members.
+* **Selling:** Enabling FishHeads to list and sell their digital assets.
+* **Swapping:** Providing a mechanism for direct peer-to-peer exchange of digital assets.
+* **Pawning (Decentralized Digital Pawn Shop):** Implementing a unique feature where users can temporarily collateralize their digital assets (likely NFTs or decentralized tokens) to obtain a loan, with the option to reclaim them upon repayment.
+
+The marketplace will utilize NFT and other decentralized token standards on the Koii Network to represent digital assets. The goal is to create a vibrant, community-driven economy where **The Original Koii Pond Pioneers (FishHeads)** can freely trade, exchange, and even leverage their digital holdings in a decentralized manner.
+
+We require assistance in the full development lifecycle of this marketplace, including smart contract development, frontend design and implementation, integration with the Koii Network, and ensuring a secure and user-friendly experience for the **FishHeads** community. | 25 | KOII | 5JGgizuvQN5nPoVaKUkCfziqYTJoSTdc7g9g1dsTmZoBmjeraj1c5bYfVsEShy8sbVbfpqxaM862uwAL8CMrJbu8 | In Progress |
+
 
 
 
