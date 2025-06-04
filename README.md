@@ -118,6 +118,8 @@
 | [FishHeads, The Original Koii Pond Pioneers](https://github.com/KoiiKikko/KOII-Pond-Pioneers) | Build a Feature | FishHeads, The Original Koii Pond Pioneers | We are embarking on a project to build a decentralized digital marketplace specifically for **The Original Koii Pond Pioneers (FishHeads)** community on the Koii Network. This marketplace will focus on enabling community members to interact with their digital assets in various ways.
 | [PrometheusMonorepo](https://github.com/Prometheus-Swarm/PrometheusMonorepo) | Document & Summarize | PrometheusMonorepo | N/A | 25 | CREDITS | N/A | In Progress |
 | [Koii Task Funder Express](https://github.com/HermanL02/Koii-Task-Funder-Express) | Build a Feature | Koii Task Funder Express | Create a Game Room API for me please | 25 | CREDITS | N/A | In Progress |
+| [Koii Task Funder Express](https://github.com/HermanL02/Koii-Task-Funder-Express) | Build a Feature | Koii Task Funder Express | Create a game room api | 25 | CREDITS | N/A | In Progress |
+
 
 
 
