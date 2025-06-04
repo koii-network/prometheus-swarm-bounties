@@ -125,6 +125,8 @@
 | [Koii Node](https://github.com/koii-network/koii-node) | Build a Feature | Koii Node | Improve the startup loading screen to feature some cool animations while it loads | 25 | CREDITS | N/A | In Progress |
 | [Koii Task Funder Express](https://github.com/HermanL02/Koii-Task-Funder-Express) | Build a Feature | Koii Task Funder Express | Create a Game Room API | 25 | CREDITS | N/A | In Progress |
 | [Koii Task Funder Express](https://github.com/HermanL02/Koii-Task-Funder-Express) | Build a Feature | Koii Task Funder Express | Create a Game Room API | 25 | CREDITS | N/A | In Progress |
+| [Koii Task Funder Express](https://github.com/HermanL02/Koii-Task-Funder-Express) | Build a Feature | Koii Task Funder Express | Create a Game Room API | 25 | CREDITS | N/A | In Progress |
+
 
 
 
