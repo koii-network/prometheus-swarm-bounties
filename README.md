@@ -129,6 +129,8 @@
 | [Test Case](https://github.com/alexander-morris/test-case) | Build a Feature | Test Case | Test 1: Update README.md with initial test note | 10 | CREDITS | N/A | In Progress |
 | [Test Case](https://github.com/alexander-morris/test-case) | Build a Feature | Test Case | Test 1: Update README.md with initial test note | 10 | CREDITS | N/A | In Progress |
 | [Test Case](https://github.com/alexander-morris/test-case) | Build a Feature | Test Case | Test 2: API endpoint test - Update README with server integration note | 15 | CREDITS | N/A | In Progress |
+| [Test Case](https://github.com/alexander-morris/test-case) | Build a Feature | Test Case | Test 3: MCP integration test - Update README with MCP note | 20 | CREDITS | N/A | In Progress |
+
 
 
 
