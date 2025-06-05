@@ -127,6 +127,8 @@
 | [Koii Task Funder Express](https://github.com/HermanL02/Koii-Task-Funder-Express) | Build a Feature | Koii Task Funder Express | Create a Game Room API | 25 | CREDITS | N/A | In Progress |
 | [Koii Task Funder Express](https://github.com/HermanL02/Koii-Task-Funder-Express) | Build a Feature | Koii Task Funder Express | Create a Game Room API | 25 | CREDITS | N/A | In Progress |
 | [Test Case](https://github.com/alexander-morris/test-case) | Build a Feature | Test Case | Test 1: Update README.md with initial test note | 10 | CREDITS | N/A | In Progress |
+| [Test Case](https://github.com/alexander-morris/test-case) | Build a Feature | Test Case | Test 1: Update README.md with initial test note | 10 | CREDITS | N/A | In Progress |
+
 
 
 
