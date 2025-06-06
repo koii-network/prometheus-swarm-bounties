@@ -134,6 +134,8 @@
 Next step build a random bot with exchanges&#039; APIs to see how it works adding indicators. | 1000 | KOII | 4oPPhiSKfpr31PYqQsMkqQGfXQgLHEijNmEcxds4WbxxSLpcXHByAb4YQra77BWu44MDZaEzQ4BBiCm9woitkHHT | In Progress |
 | [React](https://github.com/facebook/react) | Build a Feature | React | Test bounty for integration verification | 50 | CREDITS | N/A | In Progress |
 | [Koii Task Funder Express](https://github.com/HermanL02/Koii-Task-Funder-Express) | Feature Builder | Koii Task Funder Express | Please create a Sephora API  | 25 | CREDITS | N/A | In Progress |
+| [Popularity In Socials ](https://github.com/comsaw/Popularity-in-Socials-) | Feature Builder | Popularity In Socials  | Create content based on trends and hot topics. | 25 | KOII | 22CNbYj9nYXdS9aCZMFBGS1vQh4hcx6AgmXa4XVHkQVLLoCqLtCXaDRnmPUwxm9TzwVZkTRLuUmFP16H7NxuMSoQ | In Progress |
+
 
 
 
