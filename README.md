@@ -138,6 +138,8 @@ Next step build a random bot with exchanges&#039; APIs to see how it works addin
 | [Test Case](https://github.com/alexander-morris/test-case) | Feature Builder | Test Case | Test 2: API endpoint test - Update README with server integration note | 15 | CREDITS | N/A | In Progress |
 | [Koii Task Funder Express](https://github.com/HermanL02/Koii-Task-Funder-Express) | Feature Builder | Koii Task Funder Express | Please create a mock of CoinGekko API for me. | 25 | CREDITS | N/A | In Progress |
 | [Koii Task Funder Express](https://github.com/HermanL02/Koii-Task-Funder-Express) | Feature Builder | Koii Task Funder Express | Create a hero API that can have a bunch of endpoints (/spiderMan, /ironMan, and so on), and return a string hero | 25 | CREDITS | N/A | In Progress |
+| [AI Crypto Reels Generator](https://github.com/comsaw/Popularity-in-Socials-) | Document & Summarize | AI Crypto Reels Generator | N/A | 25 | KOII | 61sHshVFd7TJ1YiChvfGVRxWbmUodYQ9WZX7DR5ffrKVyYZkadqtVGmtRU1fVeKHXu2GycCTeyb2X8aLVu5fpGjq | In Progress |
+
 
 
 
