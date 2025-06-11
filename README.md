@@ -142,6 +142,8 @@ Next step build a random bot with exchanges&#039; APIs to see how it works addin
 | [Pineapple Sniffer.git](https://github.com/alexander-morris/pineapple-sniffer.git) | Feature Builder | Pineapple Sniffer.git | Please identify other personal security tools that might be useful, and begin implementing the &#039;MOST IMPORTANT ONE&#039; only | 25 | CREDITS | N/A | In Progress |
 | [CDN](https://github.com/HermanL02/CDN) | Feature Builder | CDN | Create a CDN management express app that can return the file when receive request | 25 | CREDITS | N/A | In Progress |
 | [Komikrayz](https://github.com/KomiKrayZ/komikrayz) | Find Bugs | Komikrayz | apocalyptic mmorpg game | 4 | KOII | jVEqNkgoW15vyLV4zBQcPvYmjXfbmv6LTnPbyMFeUs39vLWaxE3n4EPnZGmXjHG6ehiPdAs4AvpovbUttzbXNZi | In Progress |
+| [Debug Test](https://github.com/alexander-morris/test-case) | Find Bugs | Debug Test | Debug test bounty | 10 | CREDITS | N/A | In Progress |
+
 
 
 
