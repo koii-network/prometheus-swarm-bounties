@@ -140,6 +140,8 @@ Next step build a random bot with exchanges&#039; APIs to see how it works addin
 | [Koii Task Funder Express](https://github.com/HermanL02/Koii-Task-Funder-Express) | Feature Builder | Koii Task Funder Express | Create a hero API that can have a bunch of endpoints (/spiderMan, /ironMan, and so on), and return a string hero | 25 | CREDITS | N/A | In Progress |
 | [AI Crypto Reels Generator](https://github.com/comsaw/Popularity-in-Socials-) | Document & Summarize | AI Crypto Reels Generator | N/A | 25 | KOII | 61sHshVFd7TJ1YiChvfGVRxWbmUodYQ9WZX7DR5ffrKVyYZkadqtVGmtRU1fVeKHXu2GycCTeyb2X8aLVu5fpGjq | In Progress |
 | [Pineapple Sniffer.git](https://github.com/alexander-morris/pineapple-sniffer.git) | Feature Builder | Pineapple Sniffer.git | Please identify other personal security tools that might be useful, and begin implementing the &#039;MOST IMPORTANT ONE&#039; only | 25 | CREDITS | N/A | In Progress |
+| [CDN](https://github.com/HermanL02/CDN) | Feature Builder | CDN | Create a CDN management express app that can return the file when receive request | 25 | CREDITS | N/A | In Progress |
+
 
 
 
