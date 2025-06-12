@@ -152,6 +152,8 @@ Input: coordinates + timestamp (+ additional sensor data, such as Wi-Fi/Bluetoot
 | [Popularity in Socials](https://github.com/comsaw/Popularity-in-Socials-) | Find Bugs | Popularity in Socials | generating short-form content | 50 | KOII | 2sYZRw48ytwVT5Q32QVyxN4jytmXVBXyR1H31dbdw7jjLP4WgJFZ1FRtjUoMGXiAvzoD7U7sUpPSNjj9eUXDsXrd | In Progress |
 | [Koii Balance Tracker](https://github.com/pablopoggiog/koii-balance-tracker) | Find Bugs | Koii Balance Tracker | Find security issues in the app. | 100 | CREDITS | N/A | In Progress |
 | [Site](https://github.com/collaborative-economics-lab/site) | Feature Builder | Site | Add an author tag to the post view page, the list view page, and archive.html | 5 | CREDITS | N/A | In Progress |
+| [WorldSoda](https://github.com/nicole0to1/WorldSoda) | Feature Builder | WorldSoda | Please use this repo to make an app that tracks global soda prices across different retail websites using web crawlers, and then stores them in a local database, and displays them on a website with links to click through to the original source and buy the product. | 25 | CREDITS | N/A | In Progress |
+
 
 
 
