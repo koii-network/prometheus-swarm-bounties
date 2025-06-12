@@ -149,6 +149,8 @@ Next step build a random bot with exchanges&#039; APIs to see how it works addin
 Task for Koii nodes:
 Geolocation verification.
 Input: coordinates + timestamp (+ additional sensor data, such as Wi-Fi/Bluetooth). | 500 | KOII | 3sFvwQ7AxfzSMcaceaZiFGPvn2hNXhXRePPq4GQHW65KaBdrHK61N59uVhcHzLPg9BFPxswiEVy3BNQjAYc2vqbV | In Progress |
+| [Popularity in Socials](https://github.com/comsaw/Popularity-in-Socials-) | Find Bugs | Popularity in Socials | generating short-form content | 50 | KOII | 2sYZRw48ytwVT5Q32QVyxN4jytmXVBXyR1H31dbdw7jjLP4WgJFZ1FRtjUoMGXiAvzoD7U7sUpPSNjj9eUXDsXrd | In Progress |
+
 
 
 
