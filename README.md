@@ -143,6 +143,8 @@ Next step build a random bot with exchanges&#039; APIs to see how it works addin
 | [CDN](https://github.com/HermanL02/CDN) | Feature Builder | CDN | Create a CDN management express app that can return the file when receive request | 25 | CREDITS | N/A | In Progress |
 | [Komikrayz](https://github.com/KomiKrayZ/komikrayz) | Find Bugs | Komikrayz | apocalyptic mmorpg game | 4 | KOII | jVEqNkgoW15vyLV4zBQcPvYmjXfbmv6LTnPbyMFeUs39vLWaxE3n4EPnZGmXjHG6ehiPdAs4AvpovbUttzbXNZi | In Progress |
 | [Debug Test](https://github.com/alexander-morris/test-case) | Find Bugs | Debug Test | Debug test bounty | 10 | CREDITS | N/A | In Progress |
+| [Lottery](https://github.com/pablopoggiog/lottery) | Feature Builder | Lottery | think of some cool feature for this repo and implement it | 200 | CREDITS | N/A | In Progress |
+
 
 
 
