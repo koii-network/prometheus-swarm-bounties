@@ -145,6 +145,11 @@ Next step build a random bot with exchanges&#039; APIs to see how it works addin
 | [Debug Test](https://github.com/alexander-morris/test-case) | Find Bugs | Debug Test | Debug test bounty | 10 | CREDITS | N/A | In Progress |
 | [Lottery](https://github.com/pablopoggiog/lottery) | Feature Builder | Lottery | think of some cool feature for this repo and implement it | 200 | CREDITS | N/A | In Progress |
 | [Lottery](https://github.com/pablopoggiog/lottery) | Find Bugs | Lottery | Audit the application, report any security issues you find and suggest solutions. | 50 | CREDITS | N/A | In Progress |
+| [Decentralized Proof of Presence](https://github.com/aspekt19/pop) | Feature Builder | Decentralized Proof of Presence | Need help creating a task for node operators for the “Decentralized Proof of Presence” project. 
+Task for Koii nodes:
+Geolocation verification.
+Input: coordinates + timestamp (+ additional sensor data, such as Wi-Fi/Bluetooth). | 500 | KOII | 3sFvwQ7AxfzSMcaceaZiFGPvn2hNXhXRePPq4GQHW65KaBdrHK61N59uVhcHzLPg9BFPxswiEVy3BNQjAYc2vqbV | In Progress |
+
 
 
 
