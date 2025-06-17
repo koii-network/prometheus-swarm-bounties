@@ -156,6 +156,8 @@ Input: coordinates + timestamp (+ additional sensor data, such as Wi-Fi/Bluetoot
 | [WorldSoda](https://github.com/nicole0to1/WorldSoda) | Feature Builder | WorldSoda | https://github.com/nicole0to1/WorldSoda | 50 | CREDITS | N/A | In Progress |
 | [Teh Broke Bot](https://github.com/TehBrokeBots/TehBrokeBot) | Feature Builder | Teh Broke Bot | I need help building my Ai trading bot. id like for it not to have to be dependent on elizaos. i would like to be able to connect it to a telegram/discord/X bot though. 
 | [Ocaml Mcp Sdk](https://github.com/bmorphism/ocaml-mcp-sdk) | Feature Builder | Ocaml Mcp Sdk | find the bugs in this repo | 50 | CREDITS | N/A | In Progress |
+| [NestJs MovieApp](https://github.com/SyedGhazanferAnwar/NestJs-MovieApp) | Feature Builder | NestJs MovieApp | Add unit tests for my repository | 50 | CREDITS | N/A | In Progress |
+
 
 
 name: Teh Broke Bot
