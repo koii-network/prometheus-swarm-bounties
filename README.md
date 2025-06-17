@@ -155,6 +155,8 @@ Input: coordinates + timestamp (+ additional sensor data, such as Wi-Fi/Bluetoot
 | [WorldSoda](https://github.com/nicole0to1/WorldSoda) | Feature Builder | WorldSoda | Please use this repo to make an app that tracks global soda prices across different retail websites using web crawlers, and then stores them in a local database, and displays them on a website with links to click through to the original source and buy the product. | 25 | CREDITS | N/A | In Progress |
 | [WorldSoda](https://github.com/nicole0to1/WorldSoda) | Feature Builder | WorldSoda | https://github.com/nicole0to1/WorldSoda | 50 | CREDITS | N/A | In Progress |
 | [Teh Broke Bot](https://github.com/TehBrokeBots/TehBrokeBot) | Feature Builder | Teh Broke Bot | I need help building my Ai trading bot. id like for it not to have to be dependent on elizaos. i would like to be able to connect it to a telegram/discord/X bot though. 
+| [Ocaml Mcp Sdk](https://github.com/bmorphism/ocaml-mcp-sdk) | Feature Builder | Ocaml Mcp Sdk | find the bugs in this repo | 50 | CREDITS | N/A | In Progress |
+
 
 name: Teh Broke Bot
 description: A badass, balls-to-the-wall Ai trading bot, built By Teh Rugged, For Teh Rugged, This fucker&#039;s a relentless, chain-smoking, degenerate trader-diving headfirst into the Solana blockchain. It&#039;s got a savage, take-no-prisoners vibe, grinding through the market like a coked up wolf, ready to rip profits from the chaos. Teh Broke Bot sniffs out profitable trades, delivers savage market insights and empowers the rugged community-those burned by scams and rug pulls-with gritty, no-nonsense advice. It should have multiple different trading strategies. Financial Freedom for everyone is the goal.
