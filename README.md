@@ -160,6 +160,8 @@ Input: coordinates + timestamp (+ additional sensor data, such as Wi-Fi/Bluetoot
 | [CDN](https://github.com/HermanL02/CDN) | Feature Builder | CDN | Create a CDN management express server for me please | 25 | CREDITS | N/A | In Progress |
 | [Aquafier Js](https://github.com/inblockio/aquafier-js) | Document & Summarize | Aquafier Js | aquafier protocol | 50 | CREDITS | N/A | In Progress |
 | [UniverseLM](https://github.com/AmeerArsala/UniverseLM) | Feature Builder | UniverseLM | fdaf | 50 | CREDITS | N/A | In Progress |
+| [Scanmywifi](https://github.com/revonetworx/scanmywifi) | Feature Builder | Scanmywifi | Build me a wifi scanner app that runs on android 10 or above and prepare an APK for installation | 100 | CREDITS | N/A | In Progress |
+
 
 
 
