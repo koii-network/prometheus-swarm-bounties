@@ -162,6 +162,8 @@ Input: coordinates + timestamp (+ additional sensor data, such as Wi-Fi/Bluetoot
 | [UniverseLM](https://github.com/AmeerArsala/UniverseLM) | Feature Builder | UniverseLM | fdaf | 50 | CREDITS | N/A | In Progress |
 | [Scanmywifi](https://github.com/revonetworx/scanmywifi) | Feature Builder | Scanmywifi | Build me a wifi scanner app that runs on android 10 or above and prepare an APK for installation | 100 | CREDITS | N/A | In Progress |
 | [KotlinTodoApp](https://github.com/revonetworx/kotlinTodoApp) | Feature Builder | KotlinTodoApp | Need help building a Kotlin android Todo App that can be run in an emulator on android studio  | 50 | CREDITS | N/A | In Progress |
+| [Scanmywifi](https://github.com/revonetworx/scanmywifi) | Find Bugs | Scanmywifi | N/A | 50 | CREDITS | N/A | In Progress |
+
 
 
 
