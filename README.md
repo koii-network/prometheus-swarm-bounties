@@ -163,6 +163,8 @@ Input: coordinates + timestamp (+ additional sensor data, such as Wi-Fi/Bluetoot
 | [Scanmywifi](https://github.com/revonetworx/scanmywifi) | Feature Builder | Scanmywifi | Build me a wifi scanner app that runs on android 10 or above and prepare an APK for installation | 100 | CREDITS | N/A | In Progress |
 | [KotlinTodoApp](https://github.com/revonetworx/kotlinTodoApp) | Feature Builder | KotlinTodoApp | Need help building a Kotlin android Todo App that can be run in an emulator on android studio  | 50 | CREDITS | N/A | In Progress |
 | [Scanmywifi](https://github.com/revonetworx/scanmywifi) | Find Bugs | Scanmywifi | N/A | 50 | CREDITS | N/A | In Progress |
+| [ALP Looping](https://github.com/SoYan500/ALP-Looping) | Feature Builder | ALP Looping | Help to create KOII ALP LOOPING | 100 | KOII | 4S24H6L4r999HYbLrhmMCSz5ZDwFn9pRRSSDucEBXAFpGjGF8gH2YfySNBF6EJX8Nar8z8aDixLQA2VPDKZ3dckS | In Progress |
+
 
 
 
