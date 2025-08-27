@@ -164,6 +164,8 @@ Input: coordinates + timestamp (+ additional sensor data, such as Wi-Fi/Bluetoot
 | [KotlinTodoApp](https://github.com/revonetworx/kotlinTodoApp) | Feature Builder | KotlinTodoApp | Need help building a Kotlin android Todo App that can be run in an emulator on android studio  | 50 | CREDITS | N/A | In Progress |
 | [Scanmywifi](https://github.com/revonetworx/scanmywifi) | Find Bugs | Scanmywifi | N/A | 50 | CREDITS | N/A | In Progress |
 | [ALP Looping](https://github.com/SoYan500/ALP-Looping) | Feature Builder | ALP Looping | Help to create KOII ALP LOOPING | 100 | KOII | 4S24H6L4r999HYbLrhmMCSz5ZDwFn9pRRSSDucEBXAFpGjGF8gH2YfySNBF6EJX8Nar8z8aDixLQA2VPDKZ3dckS | In Progress |
+| [AndyKing20250828](https://github.com/AndyKing888888/AndyKing20250828) | Find Bugs | AndyKing20250828 | Prometheus001 | 100 | KOII | 5wa5DjHA62Ct8KrRbZcAgBVmg3c3jbQSQHZEWmf7oii5yTRioeJPdFQNCZDqRENMp9RP1cuBd7PDGExqh2kkfgpc | In Progress |
+
 
 
 
